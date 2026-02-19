@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import type { Animal } from '$lib/stores/app';
 	import { selectedAnimal } from '$lib/stores/app';
 	import ConservationBadge from './ConservationBadge.svelte';
@@ -88,7 +89,7 @@
 				</ul>
 			</div>
 
-			<a href="/animal/{animal.id}" class="share-link" onclick={close}>
+			<a href="{base}/animal/{animal.id}" class="share-link" onclick={close}>
 				Share this animal's page →
 			</a>
 		</div>

@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import ConservationBadge from '$lib/components/ConservationBadge.svelte';
 	import { regionNames } from '$lib/stores/app';
 	import type { PageData } from './$types';
@@ -16,7 +17,7 @@
 
 <div class="page">
 	<nav class="breadcrumb">
-		<a href="/">← Back to Map</a>
+		<a href="{base}/">← Back to Map</a>
 	</nav>
 
 	<article class="animal-page">
@@ -88,7 +89,7 @@
 			</section>
 
 			<div class="back-link">
-				<a href="/">← Explore more animals on the map</a>
+				<a href="{base}/">← Explore more animals on the map</a>
 			</div>
 		</div>
 	</article>
