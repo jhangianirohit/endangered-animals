@@ -1,0 +1,2186 @@
+[
+  {
+    "id": "california-condor",
+    "name": "California Condor",
+    "scientificName": "Gymnogyps californianus",
+    "status": "CR",
+    "population": "500-550",
+    "region": "north-america",
+    "habitat": "Rocky cliffs and open forests of California, Arizona, and Utah",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/California-condor-gymnogyps-californianus-078_%2821196759264%29.jpg/330px-California-condor-gymnogyps-californianus-078_%2821196759264%29.jpg",
+    "description": "The California Condor is the largest flying bird in North America with a wingspan of nearly 10 feet! They almost went extinct in the 1980s when only 27 were left, but thanks to breeding programs, their numbers are slowly growing.",
+    "funFacts": [
+      "A California Condor's wingspan is almost as wide as a car is long!",
+      "They can soar to heights of 15,000 feet without flapping their wings.",
+      "Condors can live up to 60 years in the wild."
+    ],
+    "threats": [
+      "Lead poisoning from eating animals shot with lead bullets",
+      "Habitat loss",
+      "Power line collisions"
+    ],
+    "whatYouCanDo": [
+      "Learn about condors and share what you know with friends",
+      "Support wildlife conservation organizations",
+      "Never litter, especially in natural areas"
+    ]
+  },
+  {
+    "id": "red-wolf",
+    "name": "Red Wolf",
+    "scientificName": "Canis rufus",
+    "status": "CR",
+    "population": "15-20",
+    "region": "north-america",
+    "habitat": "Forests, wetlands, and coastal prairies of the southeastern United States",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Red_wolf_%284531335218%29.jpg/330px-Red_wolf_%284531335218%29.jpg",
+    "description": "The Red Wolf is one of the rarest animals in the world. They are smaller than gray wolves but bigger than coyotes. They live only in a tiny area of North Carolina today.",
+    "funFacts": [
+      "Red wolves are very shy and rarely seen by people.",
+      "They mate for life and both parents help raise the pups.",
+      "Red wolf pups are born with their eyes closed and don't open them for about two weeks."
+    ],
+    "threats": [
+      "Habitat loss",
+      "Breeding with coyotes",
+      "Being mistaken for coyotes by hunters"
+    ],
+    "whatYouCanDo": [
+      "Tell others about the red wolf so more people know they exist",
+      "Support groups that protect wolves",
+      "Write letters to leaders asking them to protect wolf habitats"
+    ]
+  },
+  {
+    "id": "florida-panther",
+    "name": "Florida Panther",
+    "scientificName": "Puma concolor coryi",
+    "status": "EN",
+    "population": "120-230",
+    "region": "north-america",
+    "habitat": "Swamps, forests, and grasslands of southern Florida",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Everglades_National_Park_Florida_Panther.jpg/330px-Everglades_National_Park_Florida_Panther.jpg",
+    "description": "The Florida Panther is a type of cougar that lives only in the swamps and forests of southern Florida. They are amazing swimmers and can even cross wide rivers! There were once only about 20 left, but now there are more than 100.",
+    "funFacts": [
+      "Florida Panthers can jump 15 feet in the air from a standing position!",
+      "Each panther needs a territory as large as 200 square miles.",
+      "Baby panthers have blue eyes that turn yellow as they grow up."
+    ],
+    "threats": [
+      "Cars hitting them when they cross roads",
+      "Habitat loss from buildings and farms",
+      "Mercury poisoning from polluted water"
+    ],
+    "whatYouCanDo": [
+      "Ask your family to drive carefully in wildlife areas",
+      "Learn about Florida's wetlands and why they matter",
+      "Support wildlife crossings that help animals cross roads safely"
+    ]
+  },
+  {
+    "id": "whooping-crane",
+    "name": "Whooping Crane",
+    "scientificName": "Grus americana",
+    "status": "EN",
+    "population": "600-800",
+    "region": "north-america",
+    "habitat": "Wetlands and marshes of North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Grus_americana_Sasata.jpg/330px-Grus_americana_Sasata.jpg",
+    "description": "The Whooping Crane is the tallest bird in North America, standing nearly 5 feet tall! They got their name from the loud whooping call they make. In 1941, there were only 21 left, but people worked hard to save them.",
+    "funFacts": [
+      "Whooping Cranes dance! They jump, bow, and flap their wings to impress each other.",
+      "They fly over 2,500 miles during migration every year.",
+      "Scientists once dressed up in crane costumes to teach baby cranes how to migrate!"
+    ],
+    "threats": [
+      "Habitat loss from draining wetlands",
+      "Power line collisions during migration",
+      "Predators attacking nests"
+    ],
+    "whatYouCanDo": [
+      "Learn about wetlands and why they are important for birds",
+      "Participate in bird counting events near your home",
+      "Keep cats indoors to protect wild birds"
+    ]
+  },
+  {
+    "id": "black-footed-ferret",
+    "name": "Black-footed Ferret",
+    "scientificName": "Mustela nigripes",
+    "status": "EN",
+    "population": "300-400",
+    "region": "north-america",
+    "habitat": "Grasslands and prairies of the western United States",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mustela_nigripes_2.jpg/330px-Mustela_nigripes_2.jpg",
+    "description": "The Black-footed Ferret is the only ferret native to North America. They were once thought to be completely extinct! A small group was found in 1981, and scientists worked to breed them and bring them back.",
+    "funFacts": [
+      "Black-footed ferrets spend about 90% of their time underground in prairie dog burrows.",
+      "They do a funny 'war dance' where they hop sideways and arch their back when excited.",
+      "A single ferret can eat over 100 prairie dogs in one year."
+    ],
+    "threats": [
+      "Loss of prairie dog colonies (their main food)",
+      "Diseases like plague",
+      "Habitat loss from farming"
+    ],
+    "whatYouCanDo": [
+      "Learn about prairie ecosystems and how all animals are connected",
+      "Support prairie conservation projects",
+      "Tell your friends about this amazing comeback story"
+    ]
+  },
+  {
+    "id": "monarch-butterfly",
+    "name": "Monarch Butterfly",
+    "scientificName": "Danaus plexippus",
+    "status": "EN",
+    "population": "Millions, but declining fast",
+    "region": "north-america",
+    "habitat": "Meadows, fields, and forests across North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg/330px-Monarch_Butterfly_Danaus_plexippus_Male_2664px.jpg",
+    "description": "Monarch Butterflies are famous for their incredible migration, traveling up to 3,000 miles from Canada to Mexico every year! Their bright orange and black wings warn predators that they taste bad.",
+    "funFacts": [
+      "Monarchs can travel up to 100 miles in a single day during migration!",
+      "They taste with their feet, not their mouths.",
+      "It takes four generations of monarchs to complete one full migration cycle."
+    ],
+    "threats": [
+      "Loss of milkweed plants where they lay eggs",
+      "Pesticides and herbicides",
+      "Climate change affecting migration patterns"
+    ],
+    "whatYouCanDo": [
+      "Plant milkweed and wildflowers in your garden",
+      "Avoid using pesticides on your lawn",
+      "Create a butterfly garden at your school"
+    ]
+  },
+  {
+    "id": "north-atlantic-right-whale",
+    "name": "North Atlantic Right Whale",
+    "scientificName": "Eubalaena glacialis",
+    "status": "CR",
+    "population": "340-360",
+    "region": "north-america",
+    "habitat": "Atlantic Ocean along the eastern coast of North America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/GRNMS_-_Right_Whales_%2831361234602%29.jpg/330px-GRNMS_-_Right_Whales_%2831361234602%29.jpg",
+    "description": "The North Atlantic Right Whale is one of the most endangered large whales in the world. They got their name because whalers thought they were the 'right' whale to hunt. Today, only about 350 are left.",
+    "funFacts": [
+      "Each right whale can be identified by the unique pattern of rough patches on their head.",
+      "They can weigh up to 70 tons, which is as heavy as about 10 elephants!",
+      "Mother right whales whisper to their calves to avoid attracting predators."
+    ],
+    "threats": [
+      "Getting tangled in fishing gear",
+      "Being hit by ships",
+      "Climate change warming their ocean habitat"
+    ],
+    "whatYouCanDo": [
+      "Reduce, reuse, recycle to keep oceans clean",
+      "Learn about ocean conservation",
+      "Support rules that make ships slow down to protect whales"
+    ]
+  },
+  {
+    "id": "scarlet-macaw",
+    "name": "Scarlet Macaw",
+    "scientificName": "Ara macao",
+    "status": "NT",
+    "population": "20,000-50,000",
+    "region": "central-america-caribbean",
+    "habitat": "Tropical rainforests from Mexico to Central and South America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg/330px-Scarlet_macaw_%28Ara_macao_cyanopterus%29_Copan.jpg",
+    "description": "The Scarlet Macaw is one of the most colorful birds in the world, with bright red, yellow, and blue feathers. They are very smart and can learn to mimic words. They live in the rainforests of Central and South America.",
+    "funFacts": [
+      "Scarlet Macaws can live up to 75 years in captivity!",
+      "They eat clay from riverbanks to help digest the toxins in unripe fruits.",
+      "Macaw couples hold hands (or rather, claws) and groom each other."
+    ],
+    "threats": [
+      "Illegal pet trade",
+      "Deforestation of tropical rainforests",
+      "Poaching for their beautiful feathers"
+    ],
+    "whatYouCanDo": [
+      "Never buy a wild-caught parrot as a pet",
+      "Support rainforest conservation groups",
+      "Choose products that are rainforest-friendly"
+    ]
+  },
+  {
+    "id": "hawksbill-sea-turtle",
+    "name": "Hawksbill Sea Turtle",
+    "scientificName": "Eretmochelys imbricata",
+    "status": "CR",
+    "population": "20,000-23,000 nesting females",
+    "region": "central-america-caribbean",
+    "habitat": "Coral reefs and coastal waters of tropical oceans",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Eretmochelys-imbricata-K%C3%A9lonia-2.JPG/330px-Eretmochelys-imbricata-K%C3%A9lonia-2.JPG",
+    "description": "Hawksbill Sea Turtles have a beautiful shell with overlapping plates and a pointed beak that looks like a hawk's bill. They are very important for coral reefs because they eat sponges that would otherwise crowd out the coral.",
+    "funFacts": [
+      "Hawksbill turtles can hold their breath for up to 5 hours while sleeping!",
+      "They have been around for over 100 million years, since the time of the dinosaurs.",
+      "A single hawksbill can eat over 1,000 pounds of sponges in a year."
+    ],
+    "threats": [
+      "Being hunted for their beautiful shells",
+      "Plastic pollution in the ocean",
+      "Loss of nesting beaches"
+    ],
+    "whatYouCanDo": [
+      "Never buy anything made from turtle shell",
+      "Reduce plastic use, especially straws and bags",
+      "If you visit a beach, turn off lights at night during nesting season"
+    ]
+  },
+  {
+    "id": "resplendent-quetzal",
+    "name": "Resplendent Quetzal",
+    "scientificName": "Pharomachrus mocinno",
+    "status": "NT",
+    "population": "20,000-50,000",
+    "region": "central-america-caribbean",
+    "habitat": "Cloud forests of Central America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg/330px-Resplendent_quetzal_san_gerardo_de_dota_3.31.24_DSC_3989-topaz-denoiseraw.jpg",
+    "description": "The Resplendent Quetzal is one of the most beautiful birds on Earth. Males have shimmering green feathers and tail feathers that can be 3 feet long! Ancient Mayan and Aztec people thought they were sacred.",
+    "funFacts": [
+      "The Quetzal is the national bird of Guatemala, and their money is even named after it!",
+      "Ancient Aztecs and Mayans believed the quetzal was a god of the air.",
+      "Male quetzals grow new tail feathers every year during mating season."
+    ],
+    "threats": [
+      "Destruction of cloud forests",
+      "Climate change",
+      "Illegal capture for the pet trade"
+    ],
+    "whatYouCanDo": [
+      "Learn about cloud forests and why they are special",
+      "Support conservation projects in Central America",
+      "Share quetzal facts with your friends and family"
+    ]
+  },
+  {
+    "id": "axolotl",
+    "name": "Axolotl",
+    "scientificName": "Ambystoma mexicanum",
+    "status": "CR",
+    "population": "50-1,000 in the wild",
+    "region": "central-america-caribbean",
+    "habitat": "Lake Xochimilco in Mexico City, Mexico",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Axolotl_ganz.jpg/330px-Axolotl_ganz.jpg",
+    "description": "The Axolotl is a super cool salamander that never grows up! Unlike other salamanders, it stays in its baby form its whole life and keeps its feathery gills. It can also regrow lost body parts, like legs and even parts of its brain!",
+    "funFacts": [
+      "Axolotls can regrow their legs, tail, heart, and even parts of their brain!",
+      "They always look like they are smiling because of the shape of their mouth.",
+      "Axolotls come in many colors including pink, white, gold, and black."
+    ],
+    "threats": [
+      "Water pollution in Lake Xochimilco",
+      "Invasive fish species eating them",
+      "Habitat loss from Mexico City's growth"
+    ],
+    "whatYouCanDo": [
+      "Learn about amphibians and why clean water matters",
+      "Never release pet axolotls into the wild",
+      "Support groups working to clean up Lake Xochimilco"
+    ]
+  },
+  {
+    "id": "jaguar",
+    "name": "Jaguar",
+    "scientificName": "Panthera onca",
+    "status": "NT",
+    "population": "64,000-173,000",
+    "region": "central-america-caribbean",
+    "habitat": "Tropical rainforests, swamps, and grasslands from Mexico to Argentina",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/330px-Standing_jaguar.jpg",
+    "description": "The Jaguar is the biggest cat in the Americas and the third-largest cat in the world. Unlike most cats, jaguars love to swim! Their powerful jaws can bite through turtle shells and even crocodile skulls.",
+    "funFacts": [
+      "Jaguars have the strongest bite of any big cat, even stronger than lions and tigers!",
+      "Some jaguars are all black and are sometimes called black panthers.",
+      "The name 'jaguar' comes from a Native American word meaning 'he who kills with one leap.'"
+    ],
+    "threats": [
+      "Deforestation of rainforests",
+      "Being hunted by ranchers protecting livestock",
+      "Illegal wildlife trade"
+    ],
+    "whatYouCanDo": [
+      "Support rainforest conservation",
+      "Choose products that don't harm rainforests",
+      "Learn about jaguars and share what you know"
+    ]
+  },
+  {
+    "id": "bairds-tapir",
+    "name": "Baird's Tapir",
+    "scientificName": "Tapirus bairdii",
+    "status": "EN",
+    "population": "4,500-5,000",
+    "region": "central-america-caribbean",
+    "habitat": "Tropical and subtropical forests of Central America and Mexico",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Baird%27s_tapir_mother_with_baby_%2892151%29.jpg/330px-Baird%27s_tapir_mother_with_baby_%2892151%29.jpg",
+    "description": "Baird's Tapir is the largest land mammal in Central America. It has a funny wiggly nose that works like a short trunk! Tapirs are actually related to horses and rhinos, even though they look more like pigs.",
+    "funFacts": [
+      "Tapirs use their flexible snout like a snorkel when swimming underwater!",
+      "Baby tapirs have stripes and spots that help them hide in the forest, like a watermelon pattern.",
+      "Tapirs have existed for over 55 million years and have barely changed!"
+    ],
+    "threats": [
+      "Hunting",
+      "Habitat loss from deforestation",
+      "Roads fragmenting their forest homes"
+    ],
+    "whatYouCanDo": [
+      "Learn about tapirs and spread the word about these amazing animals",
+      "Support Central American wildlife reserves",
+      "Choose shade-grown coffee that protects forests"
+    ]
+  },
+  {
+    "id": "golden-lion-tamarin",
+    "name": "Golden Lion Tamarin",
+    "scientificName": "Leontopithecus rosalia",
+    "status": "EN",
+    "population": "3,200-3,800",
+    "region": "south-america",
+    "habitat": "Atlantic coastal forests of Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Leontopithecus_rosalia_-_Copenhagen_Zoo_-_DSC09082.JPG/330px-Leontopithecus_rosalia_-_Copenhagen_Zoo_-_DSC09082.JPG",
+    "description": "The Golden Lion Tamarin is a tiny monkey with a magnificent golden-orange mane that looks like a lion! They live only in a small area of Brazilian rainforest. They were nearly extinct but conservation efforts have helped them come back.",
+    "funFacts": [
+      "Golden Lion Tamarins are only about 10 inches tall, small enough to fit in your hand!",
+      "They sleep in tree holes at night to stay safe from predators.",
+      "Tamarin dads carry their babies on their backs most of the time."
+    ],
+    "threats": [
+      "Habitat loss from deforestation",
+      "Illegal pet trade",
+      "Yellow fever disease outbreaks"
+    ],
+    "whatYouCanDo": [
+      "Support Brazilian rainforest conservation programs",
+      "Never buy wild animals as pets",
+      "Learn about the Atlantic Forest and why it matters"
+    ]
+  },
+  {
+    "id": "andean-condor",
+    "name": "Andean Condor",
+    "scientificName": "Vultur gryphus",
+    "status": "VU",
+    "population": "6,700-10,000",
+    "region": "south-america",
+    "habitat": "Andes Mountains and Pacific coastlines of South America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AndeanCondorMale.jpg/330px-AndeanCondorMale.jpg",
+    "description": "The Andean Condor has the largest wingspan of any bird of prey and can soar over 100 miles without flapping its wings even once! It is the national bird of several South American countries and is a symbol of power and health.",
+    "funFacts": [
+      "Andean Condors can soar at heights of 18,000 feet, higher than most airplanes fly!",
+      "Their wingspan can reach over 10 feet, wider than most cars.",
+      "Condors are very clean birds and spend hours grooming their feathers every day."
+    ],
+    "threats": [
+      "Poisoning from eating animals killed with pesticides",
+      "Hunting",
+      "Loss of nesting habitat"
+    ],
+    "whatYouCanDo": [
+      "Learn about the Andes Mountains and the animals that live there",
+      "Support conservation groups in South America",
+      "Tell others about these incredible birds"
+    ]
+  },
+  {
+    "id": "amazon-river-dolphin",
+    "name": "Amazon River Dolphin",
+    "scientificName": "Inia geoffrensis",
+    "status": "EN",
+    "population": "Unknown, declining",
+    "region": "south-america",
+    "habitat": "Rivers and flooded forests of the Amazon and Orinoco basins",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Amazonas-Flussdelfin_Orinoko3.jpg/330px-Amazonas-Flussdelfin_Orinoko3.jpg",
+    "description": "The Amazon River Dolphin is the largest river dolphin in the world and can be bright pink! They live in the murky waters of the Amazon River and use echolocation to find fish. Local legends say they are magical creatures.",
+    "funFacts": [
+      "Amazon River Dolphins turn pinker when they get excited!",
+      "They can turn their head 180 degrees because their neck bones are not fused together.",
+      "They use echolocation like a built-in sonar to find food in dark, muddy water."
+    ],
+    "threats": [
+      "Water pollution from mining and farming",
+      "Dams blocking their river paths",
+      "Getting caught in fishing nets"
+    ],
+    "whatYouCanDo": [
+      "Keep rivers clean by never throwing trash in waterways",
+      "Learn about river ecosystems",
+      "Support groups that protect the Amazon"
+    ]
+  },
+  {
+    "id": "giant-otter",
+    "name": "Giant Otter",
+    "scientificName": "Pteronura brasiliensis",
+    "status": "EN",
+    "population": "1,000-5,000",
+    "region": "south-america",
+    "habitat": "Rivers, lakes, and wetlands of South America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Giant_otters_%28Pteronura_brasiliensis%29.jpg/330px-Giant_otters_%28Pteronura_brasiliensis%29.jpg",
+    "description": "The Giant Otter is the longest otter in the world, growing up to 6 feet long! They live in family groups and are very noisy, making loud screams, barks, and snorts to talk to each other. They are sometimes called 'river wolves' because they hunt in packs.",
+    "funFacts": [
+      "Giant otters eat up to 9 pounds of fish every single day!",
+      "Each otter has a unique throat patch, like a fingerprint, that identifies them.",
+      "Giant otter families hunt together and can even scare off caimans (a type of crocodile)!"
+    ],
+    "threats": [
+      "Water pollution from gold mining",
+      "Habitat loss",
+      "Illegal hunting for their fur"
+    ],
+    "whatYouCanDo": [
+      "Keep waterways clean",
+      "Support river conservation projects",
+      "Learn about why healthy rivers are important for all animals"
+    ]
+  },
+  {
+    "id": "hyacinth-macaw",
+    "name": "Hyacinth Macaw",
+    "scientificName": "Anodorhynchus hyacinthinus",
+    "status": "VU",
+    "population": "4,300-6,500",
+    "region": "south-america",
+    "habitat": "Tropical forests, palm swamps, and grasslands of Brazil, Paraguay, and Bolivia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hyacinth_macaw_%28Anodorhynchus_hyacinthinus%29_head.JPG/330px-Hyacinth_macaw_%28Anodorhynchus_hyacinthinus%29_head.JPG",
+    "description": "The Hyacinth Macaw is the largest flying parrot in the world, with brilliant cobalt-blue feathers and bright yellow patches around its eyes. They are very social and playful, and they love to hang upside down!",
+    "funFacts": [
+      "Their beak is strong enough to crack a coconut!",
+      "Hyacinth Macaws can grow up to 3.3 feet long, about as tall as a toddler.",
+      "They mate for life and are always seen in pairs or family groups."
+    ],
+    "threats": [
+      "Illegal trapping for the pet trade",
+      "Habitat loss from cattle ranching",
+      "Fires destroying their nesting trees"
+    ],
+    "whatYouCanDo": [
+      "Never buy wild-caught birds as pets",
+      "Support anti-poaching efforts",
+      "Learn about responsible pet ownership"
+    ]
+  },
+  {
+    "id": "blue-poison-dart-frog",
+    "name": "Blue Poison Dart Frog",
+    "scientificName": "Dendrobates tinctorius azureus",
+    "status": "VU",
+    "population": "Unknown, small and declining",
+    "region": "south-america",
+    "habitat": "Tropical rainforests of Suriname and northern Brazil",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dendrobates_azureus_qtl1.jpg/330px-Dendrobates_azureus_qtl1.jpg",
+    "description": "The Blue Poison Dart Frog is a tiny frog with brilliant blue skin covered in black spots. Its bright color is a warning to predators that it is poisonous! Indigenous people once used their toxins on the tips of blow darts for hunting.",
+    "funFacts": [
+      "One frog has enough poison to make 10 grown men very sick!",
+      "They are only about 2 inches long but can be heard from far away.",
+      "Dart frog dads carry tadpoles on their backs to water pools high up in trees."
+    ],
+    "threats": [
+      "Habitat destruction from logging",
+      "Collection for the illegal pet trade",
+      "Climate change affecting their rainforest home"
+    ],
+    "whatYouCanDo": [
+      "Never take animals from the wild",
+      "Support rainforest protection",
+      "Learn about amphibians and why they are important"
+    ]
+  },
+  {
+    "id": "maned-wolf",
+    "name": "Maned Wolf",
+    "scientificName": "Chrysocyon brachyurus",
+    "status": "NT",
+    "population": "17,000-23,000",
+    "region": "south-america",
+    "habitat": "Grasslands and scrub forests of central South America",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/San_Diego_Zoo_%288678865731%29.jpg/330px-San_Diego_Zoo_%288678865731%29.jpg",
+    "description": "The Maned Wolf looks like a fox on stilts! It has super long legs that help it see over the tall grass of its habitat. Despite its name, it is not actually a wolf at all. It is the only species in its genus.",
+    "funFacts": [
+      "Maned wolves' urine smells like marijuana, which confuses people near zoos!",
+      "They are omnivores and love eating a fruit called the wolf apple.",
+      "Their long legs are an adaptation for walking through tall grasslands."
+    ],
+    "threats": [
+      "Habitat loss from farming",
+      "Being hit by cars on roads",
+      "Diseases caught from domestic dogs"
+    ],
+    "whatYouCanDo": [
+      "Learn about South American grasslands",
+      "Support wildlife conservation in Brazil",
+      "Help keep domestic pets vaccinated to prevent disease spread"
+    ]
+  },
+  {
+    "id": "western-gorilla",
+    "name": "Western Gorilla",
+    "scientificName": "Gorilla gorilla",
+    "status": "CR",
+    "population": "100,000-150,000",
+    "region": "west-central-africa",
+    "habitat": "Tropical forests of western and central Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Male_gorilla_in_SF_zoo.jpg/330px-Male_gorilla_in_SF_zoo.jpg",
+    "description": "The Western Gorilla is our closest relative after chimpanzees, sharing about 98% of our DNA! They live in family groups led by a silverback male. Despite their big size, they are gentle giants who mostly eat plants.",
+    "funFacts": [
+      "Gorillas can learn sign language and communicate with humans!",
+      "Every gorilla has a unique nose print, just like your fingerprints.",
+      "Silverback males can weigh up to 400 pounds and are 10 times stronger than the strongest human."
+    ],
+    "threats": [
+      "Poaching for bushmeat",
+      "Ebola virus",
+      "Habitat loss from logging and mining"
+    ],
+    "whatYouCanDo": [
+      "Recycle old cell phones, which contain minerals mined from gorilla habitats",
+      "Support gorilla conservation organizations",
+      "Learn about great apes and share their story"
+    ]
+  },
+  {
+    "id": "chimpanzee",
+    "name": "Chimpanzee",
+    "scientificName": "Pan troglodytes",
+    "status": "EN",
+    "population": "170,000-300,000",
+    "region": "west-central-africa",
+    "habitat": "Tropical forests and savannas of western and central Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg/330px-015_Chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+    "description": "Chimpanzees are our closest living relatives, sharing about 98.7% of our DNA! They are incredibly smart and use tools like sticks to fish for termites and rocks to crack nuts. They live in large communities and have complex social lives.",
+    "funFacts": [
+      "Chimps make and use over 20 different types of tools!",
+      "They laugh when they play, just like humans do.",
+      "Chimps in different areas have different cultures, like humans from different countries."
+    ],
+    "threats": [
+      "Habitat destruction",
+      "Illegal bushmeat hunting",
+      "Diseases transmitted from humans"
+    ],
+    "whatYouCanDo": [
+      "Recycle electronics to reduce demand for mining in chimp habitats",
+      "Support chimpanzee sanctuaries",
+      "Never support entertainment that uses chimpanzees"
+    ]
+  },
+  {
+    "id": "african-forest-elephant",
+    "name": "African Forest Elephant",
+    "scientificName": "Loxodonta cyclotis",
+    "status": "CR",
+    "population": "100,000-200,000",
+    "region": "west-central-africa",
+    "habitat": "Dense tropical forests of central and western Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Loxodontacyclotis.jpg/330px-Loxodontacyclotis.jpg",
+    "description": "The African Forest Elephant is smaller than its savanna cousin but is still huge! They have straighter, thinner tusks and rounder ears. They are sometimes called the 'gardeners of the forest' because they spread seeds everywhere they walk.",
+    "funFacts": [
+      "Forest elephants help fight climate change by spreading tree seeds throughout the forest!",
+      "They can communicate with rumbles so low that humans cannot hear them.",
+      "A forest elephant can eat up to 300 pounds of food per day."
+    ],
+    "threats": [
+      "Poaching for ivory",
+      "Habitat loss from logging",
+      "Human-wildlife conflict"
+    ],
+    "whatYouCanDo": [
+      "Never buy ivory products",
+      "Support anti-poaching efforts in Africa",
+      "Learn about how elephants help the environment"
+    ]
+  },
+  {
+    "id": "mandrill",
+    "name": "Mandrill",
+    "scientificName": "Mandrillus sphinx",
+    "status": "VU",
+    "population": "Unknown, declining",
+    "region": "west-central-africa",
+    "habitat": "Tropical rainforests of central western Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg/330px-Mandrill_Albert_September_2015_Zoo_Berlin_%282%29.jpg",
+    "description": "The Mandrill is the most colorful mammal in the world, with a bright blue and red face and a rainbow-colored bottom! Males are especially colorful. They are the largest of all monkeys and live in huge groups called hordes.",
+    "funFacts": [
+      "A mandrill horde can have up to 800 members!",
+      "The more dominant a male mandrill is, the brighter and more colorful his face becomes.",
+      "Mandrills have cheek pouches where they store food, like built-in grocery bags."
+    ],
+    "threats": [
+      "Bushmeat hunting",
+      "Deforestation",
+      "Being captured for illegal pet trade"
+    ],
+    "whatYouCanDo": [
+      "Learn about African rainforests and their amazing animals",
+      "Support conservation groups working in central Africa",
+      "Never buy wild animals as pets"
+    ]
+  },
+  {
+    "id": "white-bellied-pangolin",
+    "name": "White-bellied Pangolin",
+    "scientificName": "Phataginus tricuspis",
+    "status": "EN",
+    "population": "Unknown, rapidly declining",
+    "region": "west-central-africa",
+    "habitat": "Tropical forests of west and central Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tree_pangolin_%28Phataginus_tricuspis%29_Nyamebe_Bepo.jpg/330px-Tree_pangolin_%28Phataginus_tricuspis%29_Nyamebe_Bepo.jpg",
+    "description": "Pangolins are the only mammals in the world covered in scales! When scared, they curl up into a tight ball that even lions cannot open. Sadly, they are the most trafficked mammals on Earth because people illegally sell their scales.",
+    "funFacts": [
+      "Pangolins have tongues longer than their bodies!",
+      "They curl into a ball so tight that even a lion cannot unroll them.",
+      "A single pangolin can eat up to 70 million ants and termites per year!"
+    ],
+    "threats": [
+      "Illegal wildlife trade for their scales and meat",
+      "Habitat loss",
+      "Hunting"
+    ],
+    "whatYouCanDo": [
+      "Never buy products made from endangered animal parts",
+      "Spread awareness about pangolin trafficking",
+      "Support anti-poaching organizations"
+    ]
+  },
+  {
+    "id": "african-grey-parrot",
+    "name": "African Grey Parrot",
+    "scientificName": "Psittacus erithacus",
+    "status": "EN",
+    "population": "560,000-13 million (declining rapidly)",
+    "region": "west-central-africa",
+    "habitat": "Dense forests of west and central Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Perroquet_%C3%A0_Yampopo_Beach_-_Douala.jpg/330px-Perroquet_%C3%A0_Yampopo_Beach_-_Douala.jpg",
+    "description": "The African Grey Parrot is considered the smartest bird in the world! They can learn hundreds of words and even understand what they mean. Their silvery-grey feathers and bright red tail make them easy to recognize.",
+    "funFacts": [
+      "An African Grey named Alex could count, identify colors, and even say 'I love you'!",
+      "They can mimic sounds perfectly, including phones ringing, doorbells, and other people's voices.",
+      "Grey parrots have been shown to have the intelligence of a 5-year-old human child."
+    ],
+    "threats": [
+      "Massive illegal pet trade",
+      "Habitat loss from deforestation",
+      "Trapping in the wild"
+    ],
+    "whatYouCanDo": [
+      "Never buy a wild-caught parrot",
+      "If you want a parrot, adopt from a rescue center",
+      "Tell others that wild parrots belong in the wild"
+    ]
+  },
+  {
+    "id": "mountain-gorilla",
+    "name": "Mountain Gorilla",
+    "scientificName": "Gorilla beringei beringei",
+    "status": "EN",
+    "population": "1,000-1,060",
+    "region": "east-southern-africa",
+    "habitat": "Mountain forests of the Virunga volcanoes and Bwindi in central Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Susa_group%2C_mountain_gorilla.jpg/330px-Susa_group%2C_mountain_gorilla.jpg",
+    "description": "Mountain Gorillas live high up in the misty mountains of central Africa. They are one of the most endangered great apes, but their numbers have been growing thanks to incredible conservation work. They are gentle, family-loving animals.",
+    "funFacts": [
+      "Mountain gorillas share 98% of their DNA with humans!",
+      "Baby gorillas ride on their mothers' backs until they are about 3 years old.",
+      "Each gorilla builds a new nest to sleep in every single night."
+    ],
+    "threats": [
+      "Poaching",
+      "Disease from human contact",
+      "Habitat loss from farming and conflict"
+    ],
+    "whatYouCanDo": [
+      "Support gorilla conservation programs",
+      "Learn about mountain gorillas and share their story",
+      "Recycle old cell phones to reduce mining in gorilla habitats"
+    ]
+  },
+  {
+    "id": "african-savanna-elephant",
+    "name": "African Savanna Elephant",
+    "scientificName": "Loxodonta africana",
+    "status": "EN",
+    "population": "350,000-415,000",
+    "region": "east-southern-africa",
+    "habitat": "Savannas, grasslands, and woodlands of eastern and southern Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/An_elephant_in_Kruger_National_Park.jpg/330px-An_elephant_in_Kruger_National_Park.jpg",
+    "description": "The African Savanna Elephant is the largest land animal on Earth! They can weigh as much as a school bus. Elephants are extremely smart, have amazing memories, and even mourn their dead family members.",
+    "funFacts": [
+      "An elephant's trunk has over 40,000 muscles and can pick up a single blade of grass!",
+      "Elephants are the only animals that cannot jump.",
+      "They communicate with sounds so low that humans cannot hear them, called infrasound."
+    ],
+    "threats": [
+      "Poaching for ivory tusks",
+      "Habitat loss from human development",
+      "Conflict with farmers"
+    ],
+    "whatYouCanDo": [
+      "Never buy ivory products",
+      "Support elephant sanctuaries and anti-poaching programs",
+      "Tell others about why elephants are important for their ecosystem"
+    ]
+  },
+  {
+    "id": "black-rhinoceros",
+    "name": "Black Rhinoceros",
+    "scientificName": "Diceros bicornis",
+    "status": "CR",
+    "population": "5,500-6,200",
+    "region": "east-southern-africa",
+    "habitat": "Savannas, grasslands, and tropical bushland of eastern and southern Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Black_Rhino_at_Working_with_Wildlife.jpg/330px-Black_Rhino_at_Working_with_Wildlife.jpg",
+    "description": "The Black Rhinoceros is not actually black! It got its name to tell it apart from the White Rhino, which is not actually white either. Black rhinos have a pointed upper lip for grabbing leaves and twigs from bushes and trees.",
+    "funFacts": [
+      "Rhinos have been on Earth for over 50 million years, even before humans!",
+      "Despite their size, black rhinos can run up to 35 miles per hour.",
+      "A group of rhinos is called a 'crash'!"
+    ],
+    "threats": [
+      "Poaching for their horns",
+      "Habitat loss",
+      "Political conflict in their range countries"
+    ],
+    "whatYouCanDo": [
+      "Never buy rhino horn products",
+      "Support anti-poaching organizations",
+      "Learn about rhinos and tell others why their horns should stay on their heads"
+    ]
+  },
+  {
+    "id": "cheetah",
+    "name": "Cheetah",
+    "scientificName": "Acinonyx jubatus",
+    "status": "VU",
+    "population": "6,500-7,100",
+    "region": "east-southern-africa",
+    "habitat": "Grasslands, savannas, and open woodlands of Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Male_cheetah_facing_left_in_South_Africa.jpg/330px-Male_cheetah_facing_left_in_South_Africa.jpg",
+    "description": "The Cheetah is the fastest land animal on Earth, reaching speeds up to 70 miles per hour! That is as fast as a car on a highway. They have special adaptations like semi-retractable claws that work like running spikes on shoes.",
+    "funFacts": [
+      "A cheetah can go from 0 to 60 mph in just 3 seconds, faster than most sports cars!",
+      "Cheetahs cannot roar like lions, but they can purr like house cats.",
+      "The black 'tear marks' on their face help reduce sun glare when hunting."
+    ],
+    "threats": [
+      "Habitat loss",
+      "Conflict with farmers",
+      "Cubs being taken for illegal pet trade"
+    ],
+    "whatYouCanDo": [
+      "Support cheetah conservation programs",
+      "Learn about how farmers and cheetahs can live together",
+      "Never support the illegal exotic pet trade"
+    ]
+  },
+  {
+    "id": "african-wild-dog",
+    "name": "African Wild Dog",
+    "scientificName": "Lycaon pictus",
+    "status": "EN",
+    "population": "6,000-6,600",
+    "region": "east-southern-africa",
+    "habitat": "Grasslands, savannas, and open woodlands of sub-Saharan Africa",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/African_Wild_Dog_at_Working_with_Wildlife.jpg/330px-African_Wild_Dog_at_Working_with_Wildlife.jpg",
+    "description": "African Wild Dogs are one of the most successful hunters in Africa, catching their prey about 80% of the time! They have beautiful patchy fur with brown, black, and white spots. No two wild dogs have the same pattern.",
+    "funFacts": [
+      "Wild dogs vote on whether to go hunting by sneezing! More sneezes means they go.",
+      "They share food with sick or injured pack members, making sure everyone eats.",
+      "Their huge round ears help them hear other pack members from miles away."
+    ],
+    "threats": [
+      "Habitat loss and fragmentation",
+      "Diseases from domestic dogs",
+      "Conflict with farmers"
+    ],
+    "whatYouCanDo": [
+      "Keep pet dogs vaccinated to prevent disease spread to wild animals",
+      "Support wildlife corridors that connect wild dog habitats",
+      "Learn about these amazing team players"
+    ]
+  },
+  {
+    "id": "rothschilds-giraffe",
+    "name": "Rothschild's Giraffe",
+    "scientificName": "Giraffa camelopardalis rothschildi",
+    "status": "EN",
+    "population": "1,600-2,500",
+    "region": "east-southern-africa",
+    "habitat": "Savannas and woodlands of Uganda and Kenya",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rothschild%27s_Giraffe_%28Giraffa_camelopardalis_rothschildi%29_male_%287068054987%29%2C_crop_%26_edit.jpg/330px-Rothschild%27s_Giraffe_%28Giraffa_camelopardalis_rothschildi%29_male_%287068054987%29%2C_crop_%26_edit.jpg",
+    "description": "Rothschild's Giraffe is one of the most endangered types of giraffe. You can tell them apart from other giraffes because they have no markings below their knees, making them look like they are wearing white stockings!",
+    "funFacts": [
+      "They are the tallest animals on Earth and can grow up to 20 feet tall!",
+      "A giraffe's tongue is about 18 inches long and is purple-black to protect it from sunburn.",
+      "Giraffes only need to sleep about 30 minutes a day!"
+    ],
+    "threats": [
+      "Habitat loss from farming",
+      "Poaching",
+      "Civil unrest in their range"
+    ],
+    "whatYouCanDo": [
+      "Support giraffe conservation organizations",
+      "Learn about giraffes and why they are important",
+      "Visit accredited zoos that support giraffe conservation"
+    ]
+  },
+  {
+    "id": "ethiopian-wolf",
+    "name": "Ethiopian Wolf",
+    "scientificName": "Canis simensis",
+    "status": "EN",
+    "population": "400-500",
+    "region": "east-southern-africa",
+    "habitat": "Afroalpine grasslands and heathlands of the Ethiopian highlands",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ethiopian_wolf_%28Canis_simensis_citernii%29.jpg/330px-Ethiopian_wolf_%28Canis_simensis_citernii%29.jpg",
+    "description": "The Ethiopian Wolf is the rarest canid in the world and Africa's most endangered carnivore. With their reddish fur and long snout, they look like a fox but are true wolves. They live only in the high mountains of Ethiopia.",
+    "funFacts": [
+      "Ethiopian wolves are the rarest wolves on Earth!",
+      "They hunt alone for rodents but come together as a pack to socialize and protect territory.",
+      "They live at altitudes above 10,000 feet, higher than most other wolves."
+    ],
+    "threats": [
+      "Rabies from domestic dogs",
+      "Habitat loss from farming",
+      "Climate change shrinking their mountain habitat"
+    ],
+    "whatYouCanDo": [
+      "Support vaccination programs for dogs near wolf habitats",
+      "Learn about Ethiopian wildlife",
+      "Tell others about this rare and beautiful wolf"
+    ]
+  },
+  {
+    "id": "ring-tailed-lemur",
+    "name": "Ring-tailed Lemur",
+    "scientificName": "Lemur catta",
+    "status": "EN",
+    "population": "2,000-2,400",
+    "region": "east-southern-africa",
+    "habitat": "Dry forests and scrublands of southern Madagascar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ring-tailed_lemur_%28Lemur_catta%29.jpg/330px-Ring-tailed_lemur_%28Lemur_catta%29.jpg",
+    "description": "Ring-tailed Lemurs are famous for their long, black-and-white striped tails. They live only on the island of Madagascar, off the coast of Africa. They love sunbathing and sit with their arms spread wide to warm up in the morning sun!",
+    "funFacts": [
+      "Lemurs have 'stink fights' where males rub smelly stuff on their tails and wave them at rivals!",
+      "Female lemurs are the bosses of the group, not the males.",
+      "Their tail has exactly 13 black and 13 white stripes."
+    ],
+    "threats": [
+      "Deforestation of Madagascar's forests",
+      "Hunting for food",
+      "Illegal pet trade"
+    ],
+    "whatYouCanDo": [
+      "Support Madagascar conservation projects",
+      "Learn about why Madagascar is so special for wildlife",
+      "Never keep lemurs as pets"
+    ]
+  },
+  {
+    "id": "iberian-lynx",
+    "name": "Iberian Lynx",
+    "scientificName": "Lynx pardinus",
+    "status": "EN",
+    "population": "1,000-1,100",
+    "region": "europe",
+    "habitat": "Mediterranean forests and scrublands of Spain and Portugal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Lince_ib%C3%A9rico_%28Lynx_pardinus%29%2C_Almuradiel%2C_Ciudad_Real%2C_Espa%C3%B1a%2C_2021-12-19%2C_DD_07.jpg/330px-Lince_ib%C3%A9rico_%28Lynx_pardinus%29%2C_Almuradiel%2C_Ciudad_Real%2C_Espa%C3%B1a%2C_2021-12-19%2C_DD_07.jpg",
+    "description": "The Iberian Lynx is the most endangered wild cat in the world. They have beautiful spotted fur and tufts of black hair on the tips of their ears. In 2002, there were only about 100 left, but conservation efforts have brought them back to over 1,000!",
+    "funFacts": [
+      "Iberian Lynx are one of the greatest conservation success stories ever!",
+      "Their ear tufts help them hear better by funneling sound into their ears.",
+      "They mainly eat rabbits and need to catch about one rabbit per day to survive."
+    ],
+    "threats": [
+      "Loss of rabbit populations (their main food)",
+      "Habitat loss",
+      "Being hit by cars on roads"
+    ],
+    "whatYouCanDo": [
+      "Learn about conservation success stories and share them",
+      "Support wildlife crossing projects that help animals cross roads safely",
+      "Tell others that saving species is possible"
+    ]
+  },
+  {
+    "id": "european-bison",
+    "name": "European Bison",
+    "scientificName": "Bison bonasus",
+    "status": "NT",
+    "population": "6,800-8,000",
+    "region": "europe",
+    "habitat": "Deciduous and mixed forests of eastern Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg/330px-European_bison_%28Bison_bonasus%29_male_Bia%C5%82owieza.jpg",
+    "description": "The European Bison is the largest land animal in Europe! They went completely extinct in the wild in 1927, but were brought back from just 12 animals that survived in zoos. Now they roam free in forests across Europe again.",
+    "funFacts": [
+      "Every European Bison alive today is descended from just 12 animals!",
+      "Despite weighing up to 2,000 pounds, they can jump 6 feet high and run 35 mph.",
+      "They were sacred animals to many ancient European cultures."
+    ],
+    "threats": [
+      "Small population with low genetic diversity",
+      "Habitat fragmentation",
+      "Disease"
+    ],
+    "whatYouCanDo": [
+      "Learn about rewilding projects bringing bison back to Europe",
+      "Support forest conservation in Europe",
+      "Share the amazing comeback story of the European Bison"
+    ]
+  },
+  {
+    "id": "mediterranean-monk-seal",
+    "name": "Mediterranean Monk Seal",
+    "scientificName": "Monachus monachus",
+    "status": "EN",
+    "population": "600-700",
+    "region": "europe",
+    "habitat": "Coastal caves and rocky shores of the Mediterranean Sea and eastern Atlantic",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Monachus_monachus_DSC_0274.jpg/330px-Monachus_monachus_DSC_0274.jpg",
+    "description": "The Mediterranean Monk Seal is one of the rarest seals in the world. They hide in sea caves to have their pups because they are so shy around people. Ancient Greeks loved these seals and believed they were protected by the gods.",
+    "funFacts": [
+      "Mediterranean Monk Seals were one of the first animals to be protected by law, way back in ancient Roman times!",
+      "They can hold their breath underwater for up to 15 minutes.",
+      "Monk seals got their name because their round head and brown fur reminded people of monks."
+    ],
+    "threats": [
+      "Loss of coastal habitat from tourism development",
+      "Getting tangled in fishing nets",
+      "Pollution"
+    ],
+    "whatYouCanDo": [
+      "Keep beaches and oceans clean",
+      "Support marine conservation groups",
+      "Learn about the Mediterranean Sea and its animals"
+    ]
+  },
+  {
+    "id": "eurasian-brown-bear",
+    "name": "Eurasian Brown Bear",
+    "scientificName": "Ursus arctos arctos",
+    "status": "NT",
+    "population": "100,000+ (but declining in parts of Europe)",
+    "region": "europe",
+    "habitat": "Forests, mountains, and tundra across Europe and northern Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg/330px-Eurasian_brown_bear_%28Ursus_arctos_arctos%29_female_1.jpg",
+    "description": "The Eurasian Brown Bear is a close relative of the grizzly bear. They once roamed across all of Europe, but now they are found mainly in Scandinavia, the Balkans, and Russia. They are slowly being brought back to places where they had disappeared.",
+    "funFacts": [
+      "Brown bears can eat up to 90 pounds of food per day before hibernation!",
+      "They hibernate for up to 6 months during winter without eating, drinking, or going to the bathroom.",
+      "Despite their size, they can run at 30 miles per hour."
+    ],
+    "threats": [
+      "Habitat loss and fragmentation",
+      "Conflict with farmers",
+      "Fear-based persecution"
+    ],
+    "whatYouCanDo": [
+      "Learn about how people and bears can live together",
+      "Support bear conservation projects in Europe",
+      "Never feed wild animals"
+    ]
+  },
+  {
+    "id": "european-mink",
+    "name": "European Mink",
+    "scientificName": "Mustela lutreola",
+    "status": "CR",
+    "population": "2,500-4,000",
+    "region": "europe",
+    "habitat": "River banks, marshes, and wetlands of Europe",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Europ%C3%A4ischer_Nerz.jpg/330px-Europ%C3%A4ischer_Nerz.jpg",
+    "description": "The European Mink is one of Europe's most endangered mammals. They look like a small, sleek brown cat and are excellent swimmers. They have disappeared from most of their original range and now live in only a few small areas.",
+    "funFacts": [
+      "European Mink can dive underwater and stay submerged for up to 2 minutes!",
+      "They always have a white patch on their upper lip, which helps identify them.",
+      "They build their dens in riverbanks, sometimes using abandoned water vole burrows."
+    ],
+    "threats": [
+      "Competition from invasive American Mink",
+      "Habitat loss",
+      "Water pollution"
+    ],
+    "whatYouCanDo": [
+      "Never release pet animals into the wild",
+      "Support wetland conservation",
+      "Help keep waterways clean"
+    ]
+  },
+  {
+    "id": "arabian-oryx",
+    "name": "Arabian Oryx",
+    "scientificName": "Oryx leucoryx",
+    "status": "VU",
+    "population": "1,000-1,220",
+    "region": "middle-east-central-asia",
+    "habitat": "Desert and steppe areas of the Arabian Peninsula",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arabian_oryx_%28oryx_leucoryx%29.jpg/330px-Arabian_oryx_%28oryx_leucoryx%29.jpg",
+    "description": "The Arabian Oryx is a beautiful white antelope that lives in the desert. They went completely extinct in the wild in the 1970s, but were bred in zoos and released back into the desert. They are one of the greatest conservation success stories ever!",
+    "funFacts": [
+      "Arabian Oryx were once extinct in the wild but have been brought back!",
+      "Their white coat reflects sunlight and helps them stay cool in the hot desert.",
+      "They can sense rain from far away and walk toward it to find fresh grass."
+    ],
+    "threats": [
+      "Poaching",
+      "Habitat loss from development",
+      "Drought from climate change"
+    ],
+    "whatYouCanDo": [
+      "Learn about desert ecosystems and share what you know",
+      "Support organizations that reintroduce animals to the wild",
+      "Celebrate conservation success stories"
+    ]
+  },
+  {
+    "id": "persian-leopard",
+    "name": "Persian Leopard",
+    "scientificName": "Panthera pardus saxicolor",
+    "status": "EN",
+    "population": "800-1,300",
+    "region": "middle-east-central-asia",
+    "habitat": "Mountain forests and rocky slopes of the Caucasus, Iran, and Central Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Persian_Leopard_sitting.jpg/330px-Persian_Leopard_sitting.jpg",
+    "description": "The Persian Leopard is the largest leopard subspecies in the world. They live in the rugged mountains of Iran, Afghanistan, and the Caucasus region. They are incredibly strong and can carry prey heavier than themselves up a mountain!",
+    "funFacts": [
+      "Persian Leopards can drag prey three times their own weight up a cliff!",
+      "They are so secretive that scientists mainly study them using camera traps.",
+      "Each leopard's spots pattern is unique, like a human fingerprint."
+    ],
+    "threats": [
+      "Poaching",
+      "Loss of prey animals",
+      "Habitat loss from development"
+    ],
+    "whatYouCanDo": [
+      "Learn about the wild places of Central Asia",
+      "Support international wildlife conservation",
+      "Share stories about these magnificent cats"
+    ]
+  },
+  {
+    "id": "saiga-antelope",
+    "name": "Saiga Antelope",
+    "scientificName": "Saiga tatarica",
+    "status": "CR",
+    "population": "1,350,000 (recovering from near-extinction)",
+    "region": "middle-east-central-asia",
+    "habitat": "Semi-arid grasslands and steppes of Central Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg/330px-Saiga_antelope_at_the_Stepnoi_Sanctuary.jpg",
+    "description": "The Saiga Antelope has one of the most unusual noses in the animal kingdom! Their big, floppy nose works like a filter, warming cold air in winter and filtering out dust in summer. They live on the grasslands of Central Asia.",
+    "funFacts": [
+      "Saiga antelopes have the funniest-looking nose of any animal, like a tiny elephant trunk!",
+      "They can run up to 50 miles per hour to escape predators.",
+      "Saigas have existed since the Ice Age and once lived alongside woolly mammoths!"
+    ],
+    "threats": [
+      "Poaching for their horns",
+      "Disease outbreaks",
+      "Harsh winters and droughts from climate change"
+    ],
+    "whatYouCanDo": [
+      "Learn about the amazing grasslands of Central Asia",
+      "Support wildlife conservation in Kazakhstan and Mongolia",
+      "Tell others about these funny-nosed survivors"
+    ]
+  },
+  {
+    "id": "markhor",
+    "name": "Markhor",
+    "scientificName": "Capra falconeri",
+    "status": "NT",
+    "population": "5,700-8,000",
+    "region": "middle-east-central-asia",
+    "habitat": "Steep mountainsides and rocky cliffs of Central Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg/330px-Markhor_Schraubenziege_Capra_falconeri_Zoo_Augsburg-02.jpg",
+    "description": "The Markhor is the national animal of Pakistan and has the most amazing corkscrew-shaped horns of any animal! They are expert mountain climbers and can walk along the narrowest ledges high up on cliff faces.",
+    "funFacts": [
+      "Markhor horns can grow up to 5 feet long and twist like a giant corkscrew!",
+      "Their name means 'snake eater' in Persian, though they mainly eat grass and leaves.",
+      "They are one of the largest wild goats in the world."
+    ],
+    "threats": [
+      "Trophy hunting",
+      "Habitat loss from livestock grazing",
+      "Competition with domestic goats"
+    ],
+    "whatYouCanDo": [
+      "Learn about the mountain ecosystems of Central Asia",
+      "Support community conservation programs",
+      "Tell others about Pakistan's amazing national animal"
+    ]
+  },
+  {
+    "id": "snow-leopard",
+    "name": "Snow Leopard",
+    "scientificName": "Panthera uncia",
+    "status": "VU",
+    "population": "4,000-6,500",
+    "region": "south-asia",
+    "habitat": "High mountain ranges of Central and South Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Irbis4.JPG/330px-Irbis4.JPG",
+    "description": "The Snow Leopard is known as the 'ghost of the mountains' because they are so hard to spot in the wild. Their thick, spotted fur keeps them warm in freezing temperatures, and their long tail helps them balance on steep mountain slopes.",
+    "funFacts": [
+      "Snow leopards cannot roar! They make a special sound called a 'chuff' instead.",
+      "Their tail is almost as long as their body and they wrap it around their face like a scarf to stay warm.",
+      "They can jump up to 50 feet in a single leap, the length of a school bus!"
+    ],
+    "threats": [
+      "Poaching for their fur",
+      "Loss of prey due to hunting",
+      "Conflict with herders protecting livestock"
+    ],
+    "whatYouCanDo": [
+      "Support snow leopard conservation organizations",
+      "Learn about mountain ecosystems",
+      "Never buy products made from wild animal fur"
+    ]
+  },
+  {
+    "id": "bengal-tiger",
+    "name": "Bengal Tiger",
+    "scientificName": "Panthera tigris tigris",
+    "status": "EN",
+    "population": "3,500-4,500",
+    "region": "south-asia",
+    "habitat": "Tropical forests, mangroves, and grasslands of India, Bangladesh, Nepal, and Bhutan",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg/330px-Bengal_tiger_in_Sanjay_Dubri_Tiger_Reserve_December_2024_by_Tisha_Mukherjee_11.jpg",
+    "description": "The Bengal Tiger is the most numerous tiger subspecies but is still endangered. They are powerful hunters and excellent swimmers. Every tiger has a unique stripe pattern, just like your fingerprints are unique to you!",
+    "funFacts": [
+      "No two tigers have the same stripe pattern, just like human fingerprints!",
+      "Tigers are the biggest cats in the world and can weigh over 500 pounds.",
+      "A tiger's roar can be heard from 2 miles away!"
+    ],
+    "threats": [
+      "Poaching for their skin, bones, and body parts",
+      "Habitat loss from deforestation",
+      "Conflict with people living near forests"
+    ],
+    "whatYouCanDo": [
+      "Never buy products made from tiger parts",
+      "Support tiger reserves and national parks",
+      "Learn about tigers and share why they need protection"
+    ]
+  },
+  {
+    "id": "indian-rhinoceros",
+    "name": "Indian Rhinoceros",
+    "scientificName": "Rhinoceros unicornis",
+    "status": "VU",
+    "population": "3,500-4,000",
+    "region": "south-asia",
+    "habitat": "Grasslands and riverine forests of northern India and Nepal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg/330px-Great-Indian-one-horned-rhinoceros-at-Kaziranga-national-park-in-Assam-India.jpg",
+    "description": "The Indian Rhinoceros looks like it is wearing a suit of armor because of its thick, folded skin! They have only one horn, unlike African rhinos which have two. They love water and spend lots of time wallowing in muddy pools.",
+    "funFacts": [
+      "Their skin looks like armor plates but is actually quite sensitive to sunburn!",
+      "Indian Rhinos are excellent swimmers and can run at 34 miles per hour.",
+      "They have been around for millions of years and were once found across all of Asia."
+    ],
+    "threats": [
+      "Poaching for their horn",
+      "Habitat loss from farming",
+      "Flooding"
+    ],
+    "whatYouCanDo": [
+      "Never buy rhino horn products",
+      "Support rhino conservation in India and Nepal",
+      "Learn about how local communities help protect rhinos"
+    ]
+  },
+  {
+    "id": "red-panda",
+    "name": "Red Panda",
+    "scientificName": "Ailurus fulgens",
+    "status": "EN",
+    "population": "2,500-10,000",
+    "region": "south-asia",
+    "habitat": "Temperate bamboo forests of the Himalayas and southwestern China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Red_Panda%2C_Gentle_Tree-Dweller_of_the_Himalayas.jpg/330px-Red_Panda%2C_Gentle_Tree-Dweller_of_the_Himalayas.jpg",
+    "description": "The Red Panda is a small, adorable mammal with reddish-brown fur and a striped bushy tail. Despite their name, they are not closely related to Giant Pandas! They spend most of their time in trees and use their tails like a blanket when it is cold.",
+    "funFacts": [
+      "Red pandas were discovered 48 years before giant pandas and were the original 'panda'!",
+      "They have a false thumb, which is actually an extended wrist bone, to help them grip bamboo.",
+      "Red pandas can eat up to 200,000 bamboo leaves in a single day!"
+    ],
+    "threats": [
+      "Deforestation of bamboo forests",
+      "Poaching for their fur",
+      "Habitat fragmentation"
+    ],
+    "whatYouCanDo": [
+      "Support red panda conservation projects",
+      "Learn about Himalayan forests and why they matter",
+      "Choose products that do not contribute to deforestation"
+    ]
+  },
+  {
+    "id": "asian-elephant",
+    "name": "Asian Elephant",
+    "scientificName": "Elephas maximus",
+    "status": "EN",
+    "population": "40,000-50,000",
+    "region": "south-asia",
+    "habitat": "Tropical and subtropical forests and grasslands of South and Southeast Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elephas_maximus_%28Bandipur%29.jpg/330px-Elephas_maximus_%28Bandipur%29.jpg",
+    "description": "The Asian Elephant is smaller than its African cousin but is still enormous! They are extremely intelligent and have been shown to recognize themselves in mirrors. In many Asian cultures, elephants are sacred and deeply respected.",
+    "funFacts": [
+      "Asian elephants can recognize themselves in a mirror, showing self-awareness!",
+      "They mourn their dead and have been seen gently touching the bones of deceased family members.",
+      "Only some male Asian elephants have tusks, while all African elephants have them."
+    ],
+    "threats": [
+      "Habitat loss from farming and development",
+      "Conflict with people",
+      "Poaching for ivory and skin"
+    ],
+    "whatYouCanDo": [
+      "Never ride elephants at tourist attractions",
+      "Support ethical elephant sanctuaries",
+      "Learn about human-elephant coexistence"
+    ]
+  },
+  {
+    "id": "ganges-river-dolphin",
+    "name": "Ganges River Dolphin",
+    "scientificName": "Platanista gangetica",
+    "status": "EN",
+    "population": "3,500-4,000",
+    "region": "south-asia",
+    "habitat": "Rivers and tributaries of the Ganges-Brahmaputra river system in India, Bangladesh, and Nepal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ganges_River_Dolphin_cropped.jpg/330px-Ganges_River_Dolphin_cropped.jpg",
+    "description": "The Ganges River Dolphin is nearly blind and uses echolocation to find fish in the murky rivers of India! They swim on their side, dragging one flipper along the river bottom to feel for food. They are one of the oldest creatures on Earth.",
+    "funFacts": [
+      "Ganges River Dolphins are practically blind and find everything using sound waves!",
+      "They always swim on their side, which is unique among dolphins.",
+      "They have been swimming in India's rivers for over 30 million years."
+    ],
+    "threats": [
+      "Water pollution from factories and farms",
+      "Dams blocking their river pathways",
+      "Accidental capture in fishing nets"
+    ],
+    "whatYouCanDo": [
+      "Never throw trash or chemicals into rivers",
+      "Support clean river projects",
+      "Learn about freshwater dolphins and why clean rivers matter"
+    ]
+  },
+  {
+    "id": "indian-pangolin",
+    "name": "Indian Pangolin",
+    "scientificName": "Manis crassicaudata",
+    "status": "EN",
+    "population": "Unknown, declining",
+    "region": "south-asia",
+    "habitat": "Forests, grasslands, and scrublands of the Indian subcontinent",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Scaly_ant_eater_by_Dushy_Ranetunge_2.jpg/330px-Scaly_ant_eater_by_Dushy_Ranetunge_2.jpg",
+    "description": "The Indian Pangolin looks like a walking pine cone! It is covered in tough, overlapping scales made of keratin, the same stuff your fingernails are made of. When threatened, it rolls into a perfect ball that is almost impossible to open.",
+    "funFacts": [
+      "Pangolin scales are made of keratin, the same material as your fingernails!",
+      "They have no teeth and use a tongue that can be longer than their entire body to eat ants.",
+      "A mother pangolin carries her baby on her tail!"
+    ],
+    "threats": [
+      "Illegal trafficking for scales and meat",
+      "Habitat loss",
+      "Hunting"
+    ],
+    "whatYouCanDo": [
+      "Never buy pangolin products",
+      "Support anti-trafficking efforts",
+      "Spread awareness about the most trafficked mammal on Earth"
+    ]
+  },
+  {
+    "id": "bornean-orangutan",
+    "name": "Bornean Orangutan",
+    "scientificName": "Pongo pygmaeus",
+    "status": "CR",
+    "population": "104,000-115,000",
+    "region": "southeast-asia",
+    "habitat": "Tropical and subtropical rainforests of Borneo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tanjung_Puting30477.jpg/330px-Tanjung_Puting30477.jpg",
+    "description": "Orangutans are the largest tree-dwelling animals in the world. They are incredibly smart and use tools, build sleeping nests, and even make umbrellas from leaves when it rains! Their name means 'person of the forest' in Malay.",
+    "funFacts": [
+      "Orangutans share about 97% of their DNA with humans!",
+      "They make a new sleeping nest in the trees every single night, sometimes with a pillow and blanket of leaves.",
+      "Orangutans use large leaves as umbrellas and gloves!"
+    ],
+    "threats": [
+      "Palm oil plantations replacing their forests",
+      "Illegal pet trade",
+      "Forest fires"
+    ],
+    "whatYouCanDo": [
+      "Look for products that use sustainable palm oil",
+      "Never support having orangutans as pets",
+      "Support rainforest conservation in Borneo"
+    ]
+  },
+  {
+    "id": "sumatran-rhinoceros",
+    "name": "Sumatran Rhinoceros",
+    "scientificName": "Dicerorhinus sumatrensis",
+    "status": "CR",
+    "population": "40-80",
+    "region": "southeast-asia",
+    "habitat": "Dense tropical forests of Sumatra and Borneo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG/330px-Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG",
+    "description": "The Sumatran Rhinoceros is the smallest and hairiest rhino in the world! They are covered in reddish-brown hair and are the last surviving relatives of the woolly rhinoceros from the Ice Age. Fewer than 80 are left in the wild.",
+    "funFacts": [
+      "Sumatran Rhinos are covered in hair, making them the fuzziest rhinos!",
+      "They are the closest living relatives of the extinct woolly rhinoceros.",
+      "They have been on Earth for over 15 million years!"
+    ],
+    "threats": [
+      "Poaching for their horns",
+      "Extreme habitat loss",
+      "Very small and isolated populations"
+    ],
+    "whatYouCanDo": [
+      "Never buy rhino horn products",
+      "Support Sumatran rhino conservation programs",
+      "Learn about critically endangered species and share their stories"
+    ]
+  },
+  {
+    "id": "malayan-tiger",
+    "name": "Malayan Tiger",
+    "scientificName": "Panthera tigris jacksoni",
+    "status": "CR",
+    "population": "80-120",
+    "region": "southeast-asia",
+    "habitat": "Tropical forests of the Malay Peninsula",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MalayanTiger.jpg/330px-MalayanTiger.jpg",
+    "description": "The Malayan Tiger is one of the smallest tiger subspecies and lives only in the forests of Malaysia. It is the national animal of Malaysia and appears on their coat of arms. Sadly, fewer than 150 are left in the wild.",
+    "funFacts": [
+      "The Malayan Tiger is the national animal of Malaysia and appears on their money!",
+      "They are excellent swimmers and love cooling off in rivers and streams.",
+      "Each tiger needs about 100 square miles of forest to live in."
+    ],
+    "threats": [
+      "Poaching by snare traps",
+      "Deforestation for palm oil and rubber plantations",
+      "Loss of prey animals"
+    ],
+    "whatYouCanDo": [
+      "Choose products with sustainable palm oil",
+      "Support anti-poaching patrols in Malaysia",
+      "Learn about all the different tiger subspecies"
+    ]
+  },
+  {
+    "id": "proboscis-monkey",
+    "name": "Proboscis Monkey",
+    "scientificName": "Nasalis larvatus",
+    "status": "EN",
+    "population": "7,000-10,000",
+    "region": "southeast-asia",
+    "habitat": "Mangrove forests, riverine forests, and swamps of Borneo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Proboscis_Monkey_in_Borneo.jpg/330px-Proboscis_Monkey_in_Borneo.jpg",
+    "description": "The Proboscis Monkey has the funniest nose in the animal kingdom! Males have a huge, floppy nose that hangs down over their mouth. Scientists think the bigger the nose, the more attractive the monkey is to females. They are also amazing swimmers!",
+    "funFacts": [
+      "Male proboscis monkeys have noses so big that they have to push them aside to eat!",
+      "They are one of the best swimmers of all primates and can swim underwater.",
+      "Their big bellies are full of bacteria that help them digest leaves, like a cow's stomach."
+    ],
+    "threats": [
+      "Deforestation of mangrove and riverine forests",
+      "Hunting",
+      "Forest fires"
+    ],
+    "whatYouCanDo": [
+      "Support mangrove forest conservation",
+      "Learn about Borneo's unique wildlife",
+      "Choose products that do not harm rainforests"
+    ]
+  },
+  {
+    "id": "komodo-dragon",
+    "name": "Komodo Dragon",
+    "scientificName": "Varanus komodoensis",
+    "status": "EN",
+    "population": "3,000-3,500",
+    "region": "southeast-asia",
+    "habitat": "Tropical savanna forests on a few small Indonesian islands",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/330px-202306_Varanus_komodoensis.jpg",
+    "description": "The Komodo Dragon is the largest lizard in the world, growing up to 10 feet long! They live on just a few small islands in Indonesia. Despite their name, they are not actually dragons, but they are just as fearsome with their venomous bite and powerful tail.",
+    "funFacts": [
+      "Komodo Dragons can eat up to 80% of their body weight in one meal!",
+      "They can smell prey from nearly 6 miles away using their forked tongue.",
+      "Baby Komodo Dragons live in trees for the first few years of their life to avoid being eaten by adults!"
+    ],
+    "threats": [
+      "Climate change and rising sea levels",
+      "Habitat loss from human activity",
+      "Reduced prey availability"
+    ],
+    "whatYouCanDo": [
+      "Support Komodo National Park conservation",
+      "Learn about reptiles and why they matter",
+      "Help fight climate change by reducing energy use"
+    ]
+  },
+  {
+    "id": "philippine-eagle",
+    "name": "Philippine Eagle",
+    "scientificName": "Pithecophaga jefferyi",
+    "status": "CR",
+    "population": "400-500",
+    "region": "southeast-asia",
+    "habitat": "Tropical rainforests of the Philippines",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pamarayeg_IIIx2_%28cropped%29.jpg/330px-Pamarayeg_IIIx2_%28cropped%29.jpg",
+    "description": "The Philippine Eagle is one of the largest and most powerful eagles in the world. It is the national bird of the Philippines and is sometimes called the 'monkey-eating eagle.' With its spiky brown crest of feathers, it looks like it has a lion's mane!",
+    "funFacts": [
+      "Philippine Eagles mate for life and raise only one chick every two years.",
+      "They have bright blue-grey eyes and a wild crown of feathers.",
+      "Killing a Philippine Eagle is punishable by 12 years in prison in the Philippines!"
+    ],
+    "threats": [
+      "Deforestation of tropical rainforests",
+      "Hunting",
+      "Mining destroying their habitat"
+    ],
+    "whatYouCanDo": [
+      "Support Philippine Eagle Foundation",
+      "Learn about the Philippines' incredible biodiversity",
+      "Help protect forests by choosing sustainable products"
+    ]
+  },
+  {
+    "id": "giant-panda",
+    "name": "Giant Panda",
+    "scientificName": "Ailuropoda melanoleuca",
+    "status": "VU",
+    "population": "1,860-2,060",
+    "region": "east-asia",
+    "habitat": "Mountain bamboo forests of central China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/330px-Grosser_Panda.JPG",
+    "description": "The Giant Panda is one of the most beloved animals in the world with its black and white fur and round face. They spend up to 14 hours a day eating bamboo! Thanks to conservation efforts, their numbers have been increasing.",
+    "funFacts": [
+      "Pandas eat for about 14 hours every day and can munch through 38 pounds of bamboo!",
+      "Baby pandas are tiny when born, weighing only about 4 ounces, the size of a stick of butter.",
+      "Despite being classified as carnivores, 99% of their diet is bamboo."
+    ],
+    "threats": [
+      "Habitat loss from development",
+      "Climate change affecting bamboo forests",
+      "Small and fragmented populations"
+    ],
+    "whatYouCanDo": [
+      "Support panda conservation programs in China",
+      "Learn about bamboo forests and why they matter",
+      "Celebrate this conservation success story and inspire others"
+    ]
+  },
+  {
+    "id": "chinese-pangolin",
+    "name": "Chinese Pangolin",
+    "scientificName": "Manis pentadactyla",
+    "status": "CR",
+    "population": "Unknown, declining rapidly",
+    "region": "east-asia",
+    "habitat": "Subtropical and deciduous forests of southern China and Southeast Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Manis_pentadactyla_%2829054818144%29.jpg/330px-Manis_pentadactyla_%2829054818144%29.jpg",
+    "description": "The Chinese Pangolin is one of the most trafficked animals on Earth. These shy, nocturnal creatures are covered in tough scales and curl into a ball when scared. They use their incredibly long, sticky tongues to slurp up ants and termites.",
+    "funFacts": [
+      "A Chinese Pangolin's tongue can be longer than its entire body!",
+      "When walking, they curl their front claws under and walk on their knuckles.",
+      "Baby pangolins ride on their mother's tail like a little backpack."
+    ],
+    "threats": [
+      "Massive illegal wildlife trade",
+      "Habitat destruction",
+      "Traditional medicine demand for their scales"
+    ],
+    "whatYouCanDo": [
+      "Never buy products made from pangolin scales",
+      "Support anti-trafficking organizations",
+      "Help raise awareness about the plight of pangolins"
+    ]
+  },
+  {
+    "id": "amur-leopard",
+    "name": "Amur Leopard",
+    "scientificName": "Panthera pardus orientalis",
+    "status": "CR",
+    "population": "100-120",
+    "region": "east-asia",
+    "habitat": "Temperate forests of the Russian Far East and northeast China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Panthera_pardus_orientalis_Colchester_Zoo_%281%29.jpg/330px-Panthera_pardus_orientalis_Colchester_Zoo_%281%29.jpg",
+    "description": "The Amur Leopard is the rarest big cat in the world! They live in the snowy forests of far eastern Russia and China. Their thick, beautiful fur keeps them warm in freezing temperatures as low as minus 30 degrees.",
+    "funFacts": [
+      "Amur Leopards can run at speeds up to 37 miles per hour!",
+      "They can leap more than 19 feet horizontally and 10 feet straight up.",
+      "Their fur grows up to 3 inches long in winter to keep them warm in the freezing cold."
+    ],
+    "threats": [
+      "Poaching for their fur",
+      "Habitat loss from logging and fires",
+      "Very small population with low genetic diversity"
+    ],
+    "whatYouCanDo": [
+      "Support Amur leopard conservation programs in Russia",
+      "Never buy products made from wild cat fur",
+      "Tell others about the rarest big cat in the world"
+    ]
+  },
+  {
+    "id": "red-crowned-crane",
+    "name": "Red-crowned Crane",
+    "scientificName": "Grus japonensis",
+    "status": "EN",
+    "population": "2,800-3,400",
+    "region": "east-asia",
+    "habitat": "Wetlands and marshes of Japan, China, and the Korean Peninsula",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Grus_japonensis_-Hokkaido%2C_Japan_-several-8_%281%29.jpg/330px-Grus_japonensis_-Hokkaido%2C_Japan_-several-8_%281%29.jpg",
+    "description": "The Red-crowned Crane is one of the rarest cranes in the world and a symbol of luck and long life in Japan. They perform one of the most beautiful dances in the animal kingdom, bowing, jumping, and calling to each other.",
+    "funFacts": [
+      "In Japan, cranes are symbols of peace, luck, and living a long life.",
+      "Red-crowned Cranes dance together in beautiful, synchronized dances.",
+      "They mate for life and can live to be 70 years old in captivity!"
+    ],
+    "threats": [
+      "Loss of wetland habitats",
+      "Pollution",
+      "Power line collisions"
+    ],
+    "whatYouCanDo": [
+      "Learn about wetlands and why they are important",
+      "Support wetland conservation projects",
+      "Make origami cranes to raise awareness about crane conservation"
+    ]
+  },
+  {
+    "id": "yangtze-finless-porpoise",
+    "name": "Yangtze Finless Porpoise",
+    "scientificName": "Neophocaena asiaeorientalis asiaeorientalis",
+    "status": "CR",
+    "population": "1,000-1,200",
+    "region": "east-asia",
+    "habitat": "Middle and lower reaches of the Yangtze River in China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Yangtze_finless_porpoise%2C_10_November_2006.jpg/330px-Yangtze_finless_porpoise%2C_10_November_2006.jpg",
+    "description": "The Yangtze Finless Porpoise is the only porpoise that lives entirely in freshwater. They have a rounded face that looks like they are always smiling! They are the last surviving cetacean in the Yangtze River after the river dolphin went extinct.",
+    "funFacts": [
+      "They are known as the 'smiling angel of the Yangtze' because they always look happy!",
+      "Mothers carry their babies on their backs when swimming.",
+      "They are the only surviving freshwater cetacean in China after the Baiji dolphin went extinct."
+    ],
+    "threats": [
+      "Water pollution",
+      "Ship traffic in the busy Yangtze River",
+      "Illegal fishing methods like electrofishing"
+    ],
+    "whatYouCanDo": [
+      "Learn about river conservation",
+      "Support efforts to clean up polluted rivers",
+      "Tell others about this smiling porpoise and why it needs our help"
+    ]
+  },
+  {
+    "id": "south-china-tiger",
+    "name": "South China Tiger",
+    "scientificName": "Panthera tigris amoyensis",
+    "status": "CR",
+    "population": "0 in wild (150 in captivity)",
+    "region": "east-asia",
+    "habitat": "Forests and mountains of southern China (functionally extinct in wild)",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2012_Suedchinesischer_Tiger.JPG/330px-2012_Suedchinesischer_Tiger.JPG",
+    "description": "The South China Tiger is considered the most critically endangered tiger subspecies in the world. None have been seen in the wild for over 25 years! About 150 survive in zoos, and there are plans to someday release them back into the wild.",
+    "funFacts": [
+      "The South China Tiger is considered the 'stem' tiger from which all other tiger subspecies evolved.",
+      "It is one of the smallest tiger subspecies.",
+      "Conservation programs are trying to teach captive-bred tigers how to hunt so they can return to the wild."
+    ],
+    "threats": [
+      "Likely extinct in the wild",
+      "Historical persecution",
+      "Habitat loss"
+    ],
+    "whatYouCanDo": [
+      "Learn about all tiger subspecies and their different challenges",
+      "Support captive breeding programs",
+      "Tell others about how important it is to act before it is too late"
+    ]
+  },
+  {
+    "id": "kakapo",
+    "name": "Kakapo",
+    "scientificName": "Strigops habroptilus",
+    "status": "CR",
+    "population": "200-250",
+    "region": "oceania-australia",
+    "habitat": "Predator-free islands off the coast of New Zealand",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Sirocco_full_length_portrait.jpg/330px-Sirocco_full_length_portrait.jpg",
+    "description": "The Kakapo is the world's heaviest parrot and the only one that cannot fly! They are also nocturnal, which is very unusual for parrots. Every single kakapo has a name, and scientists know each one personally.",
+    "funFacts": [
+      "Kakapos smell really nice, like honey and flowers!",
+      "Males make a booming sound that can be heard from 3 miles away to attract females.",
+      "Every single kakapo alive has been given a name by scientists!"
+    ],
+    "threats": [
+      "Introduced predators like cats, rats, and stoats",
+      "Very slow reproduction",
+      "Disease"
+    ],
+    "whatYouCanDo": [
+      "Support New Zealand's predator-free conservation efforts",
+      "Learn about island conservation and invasive species",
+      "Keep pet cats indoors to protect wild birds"
+    ]
+  },
+  {
+    "id": "tasmanian-devil",
+    "name": "Tasmanian Devil",
+    "scientificName": "Sarcophilus harrisii",
+    "status": "EN",
+    "population": "10,000-25,000",
+    "region": "oceania-australia",
+    "habitat": "Forests and coastal scrublands of Tasmania, Australia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sarcophilus_harrisii_taranna.jpg/330px-Sarcophilus_harrisii_taranna.jpg",
+    "description": "The Tasmanian Devil is the largest carnivorous marsupial in the world. Despite their scary name, they are usually shy. They got their name from early European settlers who were frightened by their loud, scary screams at night!",
+    "funFacts": [
+      "Tasmanian Devils have the strongest bite for their size of any mammal on Earth!",
+      "They can eat up to 40% of their body weight in just 30 minutes.",
+      "Baby devils are called 'imps' and are only the size of a grain of rice when born!"
+    ],
+    "threats": [
+      "A contagious facial tumor disease",
+      "Being hit by cars",
+      "Loss of habitat"
+    ],
+    "whatYouCanDo": [
+      "Support Tasmanian Devil disease research",
+      "Learn about marsupials and why Australia's wildlife is so special",
+      "Drive carefully in wildlife areas when visiting Tasmania"
+    ]
+  },
+  {
+    "id": "koala",
+    "name": "Koala",
+    "scientificName": "Phascolarctos cinereus",
+    "status": "VU",
+    "population": "100,000-300,000",
+    "region": "oceania-australia",
+    "habitat": "Eucalyptus forests and woodlands of eastern Australia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/330px-Koala_climbing_tree.jpg",
+    "description": "Koalas are cuddly-looking marsupials that spend most of their life in eucalyptus trees. They sleep up to 22 hours a day because eucalyptus leaves give them very little energy! Despite being called koala 'bears,' they are not bears at all.",
+    "funFacts": [
+      "Koalas sleep up to 22 hours a day!",
+      "They have fingerprints that are almost identical to human fingerprints.",
+      "Baby koalas are called 'joeys' and ride in their mother's pouch for about 6 months."
+    ],
+    "threats": [
+      "Bushfires destroying eucalyptus forests",
+      "Habitat loss from development",
+      "Disease (chlamydia)"
+    ],
+    "whatYouCanDo": [
+      "Support Australian wildlife organizations especially after bushfires",
+      "Learn about how climate change makes bushfires worse",
+      "Help plant trees in Australia"
+    ]
+  },
+  {
+    "id": "platypus",
+    "name": "Platypus",
+    "scientificName": "Ornithorhynchus anatinus",
+    "status": "NT",
+    "population": "30,000-300,000",
+    "region": "oceania-australia",
+    "habitat": "Rivers, streams, and lakes of eastern Australia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/330px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg",
+    "description": "The Platypus is one of the strangest animals on Earth! It has a duck bill, beaver tail, and otter feet. It is one of only two mammals that lay eggs. Males even have venomous spurs on their hind legs!",
+    "funFacts": [
+      "When scientists first saw a platypus specimen, they thought it was a hoax with parts from different animals sewn together!",
+      "Platypuses can sense the electric fields of their prey using their bills.",
+      "They glow blue-green under ultraviolet light!"
+    ],
+    "threats": [
+      "Habitat loss from dams and water extraction",
+      "Pollution",
+      "Climate change causing droughts"
+    ],
+    "whatYouCanDo": [
+      "Support river conservation in Australia",
+      "Help reduce water pollution",
+      "Learn about this amazing egg-laying mammal"
+    ]
+  },
+  {
+    "id": "northern-hairy-nosed-wombat",
+    "name": "Northern Hairy-nosed Wombat",
+    "scientificName": "Lasiorhinus krefftii",
+    "status": "CR",
+    "population": "300-400",
+    "region": "oceania-australia",
+    "habitat": "Semi-arid grasslands and eucalyptus woodlands of Queensland, Australia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Haarnasenwombat_%28Lasiorhinus_krefftii%29.jpg/330px-Haarnasenwombat_%28Lasiorhinus_krefftii%29.jpg",
+    "description": "The Northern Hairy-nosed Wombat is one of the rarest mammals in the world. They are bigger and softer than other wombats, with silky fur and a cute hairy nose. They dig large burrow systems underground where they rest during the hot day.",
+    "funFacts": [
+      "Wombat poop is cube-shaped! They use it to mark their territory without it rolling away.",
+      "They can run up to 25 miles per hour in short bursts.",
+      "Their backward-facing pouch keeps dirt out when they dig burrows."
+    ],
+    "threats": [
+      "Extremely small population",
+      "Competition with cattle for food",
+      "Predation by dingoes"
+    ],
+    "whatYouCanDo": [
+      "Support wombat conservation programs in Australia",
+      "Learn about Australia's unique marsupials",
+      "Share the story of this rare wombat with others"
+    ]
+  },
+  {
+    "id": "matschies-tree-kangaroo",
+    "name": "Matschie's Tree Kangaroo",
+    "scientificName": "Dendrolagus matschiei",
+    "status": "EN",
+    "population": "2,500 or fewer",
+    "region": "oceania-australia",
+    "habitat": "Mountain cloud forests of the Huon Peninsula in Papua New Guinea",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg/330px-Dendrolagus_matschiei_at_the_Bronx_Zoo_007.jpg",
+    "description": "Tree Kangaroos are kangaroos that live in trees! They have strong arms for climbing and a long tail for balance. Unlike their ground-dwelling cousins, they can move their back legs independently, which helps them climb branches.",
+    "funFacts": [
+      "Tree kangaroos can jump down from 60 feet high without getting hurt!",
+      "They can move their back legs independently, unlike ground kangaroos.",
+      "They spend most of their lives in the treetops and only come down occasionally."
+    ],
+    "threats": [
+      "Hunting for food",
+      "Habitat loss from logging",
+      "Mining in their mountain forests"
+    ],
+    "whatYouCanDo": [
+      "Learn about the cloud forests of Papua New Guinea",
+      "Support community-based conservation in Papua New Guinea",
+      "Tell others about these amazing tree-climbing kangaroos"
+    ]
+  },
+  {
+    "id": "polar-bear",
+    "name": "Polar Bear",
+    "scientificName": "Ursus maritimus",
+    "status": "VU",
+    "population": "22,000-31,000",
+    "region": "arctic",
+    "habitat": "Arctic sea ice, coastal areas, and tundra across the Arctic Circle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg/330px-Polar_Bear_-_Alaska_%28cropped%29.jpg",
+    "description": "The Polar Bear is the largest land carnivore on Earth. They depend on Arctic sea ice to hunt seals, but climate change is melting the ice faster than ever. Their fur is not actually white; it is transparent and only looks white!",
+    "funFacts": [
+      "Polar bear fur is actually transparent, not white! It just looks white because of how it reflects light.",
+      "Under their fur, polar bears have black skin to absorb heat from the sun.",
+      "They can smell a seal on the ice from 20 miles away!"
+    ],
+    "threats": [
+      "Climate change melting Arctic sea ice",
+      "Pollution from oil and gas development",
+      "Conflict with humans as bears search for food on land"
+    ],
+    "whatYouCanDo": [
+      "Reduce your carbon footprint to help fight climate change",
+      "Turn off lights and save energy at home",
+      "Walk or bike instead of driving when possible"
+    ]
+  },
+  {
+    "id": "arctic-fox",
+    "name": "Arctic Fox",
+    "scientificName": "Vulpes lagopus",
+    "status": "NT",
+    "population": "Several hundred thousand globally (some populations threatened)",
+    "region": "arctic",
+    "habitat": "Arctic tundra and coastal areas across the Northern Hemisphere",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/330px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg",
+    "description": "The Arctic Fox is a small, fluffy fox that can survive in temperatures as cold as minus 70 degrees! Their fur changes color with the seasons, turning white in winter for camouflage in the snow and brown or grey in summer.",
+    "funFacts": [
+      "Arctic foxes can survive temperatures of minus 70 degrees Fahrenheit!",
+      "Their fur changes from white in winter to brown in summer for perfect camouflage.",
+      "They have the warmest fur of any animal, even warmer than polar bear fur."
+    ],
+    "threats": [
+      "Climate change warming the Arctic",
+      "Competition from red foxes moving north",
+      "Less prey available as ecosystems change"
+    ],
+    "whatYouCanDo": [
+      "Help fight climate change by saving energy",
+      "Learn about Arctic ecosystems and how they are changing",
+      "Share facts about Arctic animals with friends"
+    ]
+  },
+  {
+    "id": "narwhal",
+    "name": "Narwhal",
+    "scientificName": "Monodon monoceros",
+    "status": "NT",
+    "population": "80,000-100,000",
+    "region": "arctic",
+    "habitat": "Arctic waters of Canada, Greenland, Norway, and Russia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg/330px-%D0%9D%D0%B0%D1%80%D0%B2%D0%B0%D0%BB_%D0%B2_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B5.jpg",
+    "description": "The Narwhal is sometimes called the 'unicorn of the sea' because of the long spiral tusk that sticks out from its head! The tusk is actually a giant tooth that can grow up to 10 feet long. They live in the icy Arctic waters year-round.",
+    "funFacts": [
+      "A narwhal's tusk is actually a tooth that grows in a spiral and can be 10 feet long!",
+      "The tusk has millions of nerve endings and can sense changes in water temperature and salt levels.",
+      "Narwhals can dive over 5,000 feet deep, one of the deepest-diving mammals!"
+    ],
+    "threats": [
+      "Climate change melting sea ice",
+      "Increased ship traffic in Arctic waters",
+      "Oil and gas exploration"
+    ],
+    "whatYouCanDo": [
+      "Reduce energy use to help fight climate change",
+      "Learn about Arctic ocean animals",
+      "Support Arctic marine conservation"
+    ]
+  },
+  {
+    "id": "walrus",
+    "name": "Walrus",
+    "scientificName": "Odobenus rosmarus",
+    "status": "VU",
+    "population": "225,000-250,000",
+    "region": "arctic",
+    "habitat": "Shallow Arctic seas, ice floes, and rocky coastlines",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg/330px-Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg",
+    "description": "Walruses are huge marine mammals with long tusks, whiskers, and big blubbery bodies. They use their tusks to pull themselves out of the water onto ice and to make holes in ice for breathing. They live in large groups called herds.",
+    "funFacts": [
+      "A walrus's tusks can grow up to 3 feet long and they use them like ice picks!",
+      "They have up to 700 whiskers that they use to find shellfish on the dark ocean floor.",
+      "Walruses can slow their heartbeat to survive in freezing water."
+    ],
+    "threats": [
+      "Loss of sea ice from climate change",
+      "Oil spills and pollution",
+      "Disturbance from ships and industrial activity"
+    ],
+    "whatYouCanDo": [
+      "Help fight climate change by reducing energy use",
+      "Keep oceans clean by reducing plastic waste",
+      "Learn about how melting ice affects Arctic animals"
+    ]
+  },
+  {
+    "id": "snowy-owl",
+    "name": "Snowy Owl",
+    "scientificName": "Bubo scandiacus",
+    "status": "VU",
+    "population": "28,000-200,000",
+    "region": "arctic",
+    "habitat": "Arctic tundra across North America, Europe, and Asia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/SnowyOwlAmericanBlackDuck.jpg/330px-SnowyOwlAmericanBlackDuck.jpg",
+    "description": "The Snowy Owl is a magnificent white owl that lives in the Arctic tundra. Unlike most owls, they hunt during the day because in the Arctic summer, the sun never sets! They became extra famous as Hedwig in the Harry Potter movies.",
+    "funFacts": [
+      "Snowy Owls became famous as Hedwig in the Harry Potter series!",
+      "They can eat up to 1,600 lemmings in a single year.",
+      "Their feathers are so thick that they are one of the heaviest owl species."
+    ],
+    "threats": [
+      "Climate change affecting their tundra habitat",
+      "Collisions with vehicles and power lines",
+      "Loss of prey species"
+    ],
+    "whatYouCanDo": [
+      "Learn about tundra ecosystems",
+      "Support Arctic bird conservation",
+      "Help fight climate change by saving energy at home"
+    ]
+  },
+  {
+    "id": "beluga-whale",
+    "name": "Beluga Whale",
+    "scientificName": "Delphinapterus leucas",
+    "status": "NT",
+    "population": "130,000-150,000",
+    "region": "arctic",
+    "habitat": "Arctic and sub-Arctic coastal waters, rivers, and estuaries",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Oceanogr%C3%A0fic_29102004.jpg/330px-Oceanogr%C3%A0fic_29102004.jpg",
+    "description": "Beluga Whales are known as the 'canaries of the sea' because they make so many different sounds including clicks, whistles, and chirps. They are the only whales that can turn their heads from side to side. Their white color helps them hide among ice floes.",
+    "funFacts": [
+      "Belugas can make over 50 different sounds and can even mimic human speech!",
+      "They are the only whales that can bend their neck and nod their head.",
+      "Baby belugas are born grey or brown and turn white as they grow up."
+    ],
+    "threats": [
+      "Pollution in Arctic waters",
+      "Noise from ships interfering with their communication",
+      "Climate change"
+    ],
+    "whatYouCanDo": [
+      "Help keep oceans clean by reducing plastic use",
+      "Learn about ocean noise pollution",
+      "Support marine mammal protection"
+    ]
+  },
+  {
+    "id": "blue-whale",
+    "name": "Blue Whale",
+    "scientificName": "Balaenoptera musculus",
+    "status": "EN",
+    "population": "10,000-25,000",
+    "region": "oceans",
+    "habitat": "All major oceans worldwide",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg/330px-Anim1754_-_Flickr_-_NOAA_Photo_Library.jpg",
+    "description": "The Blue Whale is the largest animal that has ever lived on Earth, even bigger than the biggest dinosaurs! Their heart alone is the size of a small car, and their tongue weighs as much as an elephant. Despite their enormous size, they eat tiny shrimp-like creatures called krill.",
+    "funFacts": [
+      "A Blue Whale's heart is so big that a small car could fit inside it!",
+      "Their tongue weighs as much as an elephant.",
+      "A baby blue whale gains about 200 pounds every single day!"
+    ],
+    "threats": [
+      "Ship strikes",
+      "Getting tangled in fishing gear",
+      "Ocean noise pollution interfering with communication"
+    ],
+    "whatYouCanDo": [
+      "Reduce, reuse, recycle to keep oceans clean",
+      "Support marine conservation organizations",
+      "Learn about ocean ecosystems and share what you know"
+    ]
+  },
+  {
+    "id": "vaquita",
+    "name": "Vaquita",
+    "scientificName": "Phocoena sinus",
+    "status": "CR",
+    "population": "10 or fewer",
+    "region": "oceans",
+    "habitat": "Northern Gulf of California, Mexico",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Vaquita_size.svg/330px-Vaquita_size.svg.png",
+    "description": "The Vaquita is the most endangered marine mammal in the world, with possibly fewer than 10 left alive! They are the smallest porpoise in the world and have dark rings around their eyes that make them look like they are wearing makeup.",
+    "funFacts": [
+      "Vaquitas are the smallest porpoises in the world, only about 4 feet long.",
+      "They were not even discovered by scientists until 1958!",
+      "The dark circles around their eyes and mouth make them look like they have a permanent smile."
+    ],
+    "threats": [
+      "Drowning in illegal gillnets set for totoaba fish",
+      "Extremely small population",
+      "Inbreeding"
+    ],
+    "whatYouCanDo": [
+      "Support organizations fighting illegal fishing in Mexico",
+      "Never buy products from illegally caught fish",
+      "Spread the word about the world's most endangered marine mammal"
+    ]
+  },
+  {
+    "id": "leatherback-sea-turtle",
+    "name": "Leatherback Sea Turtle",
+    "scientificName": "Dermochelys coriacea",
+    "status": "VU",
+    "population": "34,000-36,000 nesting females",
+    "region": "oceans",
+    "habitat": "Open oceans worldwide, nesting on tropical beaches",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg/330px-Leatherback_sea_turtle_Tinglar%2C_USVI_%285839996547%29.jpg",
+    "description": "The Leatherback Sea Turtle is the largest turtle in the world and can weigh over 2,000 pounds! Unlike other sea turtles, they have a soft, leathery shell instead of a hard one. They travel thousands of miles across the ocean every year.",
+    "funFacts": [
+      "Leatherbacks can dive deeper than 4,000 feet, deeper than most submarines!",
+      "They travel up to 10,000 miles per year, one of the longest migrations of any animal.",
+      "They eat jellyfish and sometimes mistake plastic bags for their food."
+    ],
+    "threats": [
+      "Plastic pollution (they eat plastic bags thinking they are jellyfish)",
+      "Egg harvesting on nesting beaches",
+      "Getting caught in fishing gear"
+    ],
+    "whatYouCanDo": [
+      "Reduce plastic use, especially plastic bags",
+      "Participate in beach cleanups",
+      "If you visit a nesting beach, keep lights off and give turtles space"
+    ]
+  },
+  {
+    "id": "great-white-shark",
+    "name": "Great White Shark",
+    "scientificName": "Carcharodon carcharias",
+    "status": "VU",
+    "population": "3,000-5,000",
+    "region": "oceans",
+    "habitat": "Coastal and offshore waters of all major oceans",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/White_shark.jpg/330px-White_shark.jpg",
+    "description": "The Great White Shark is one of the ocean's top predators and has been around for over 16 million years! Despite their scary reputation, they are actually more threatened by humans than humans are by them. They are important for keeping ocean ecosystems healthy.",
+    "funFacts": [
+      "Great whites can detect a single drop of blood in 25 gallons of water!",
+      "They can jump completely out of the water when catching prey, called breaching.",
+      "Sharks kill about 5 people per year, while humans kill about 100 million sharks per year."
+    ],
+    "threats": [
+      "Bycatch in fishing gear",
+      "Shark finning",
+      "Fear-based killing"
+    ],
+    "whatYouCanDo": [
+      "Never buy shark fin products",
+      "Learn the truth about sharks and share it with others",
+      "Support shark conservation organizations"
+    ]
+  },
+  {
+    "id": "scalloped-hammerhead-shark",
+    "name": "Scalloped Hammerhead Shark",
+    "scientificName": "Sphyrna lewini",
+    "status": "CR",
+    "population": "Unknown, declining rapidly",
+    "region": "oceans",
+    "habitat": "Coastal warm waters and open oceans worldwide",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg/330px-Scalloped_Hammerhead_Shark_Sphyrna_Lewini_%28226845659%29.jpeg",
+    "description": "The Scalloped Hammerhead Shark has one of the most amazing head shapes of any animal! Their wide, hammer-shaped head gives them super-powered senses and helps them find prey hiding under the sand. They swim in large schools of hundreds.",
+    "funFacts": [
+      "Their wide head works like a metal detector, sensing the electric fields of hidden prey!",
+      "Baby hammerheads are born with soft, flexible heads so they don't hurt their mothers.",
+      "They sometimes swim in schools of over 500 sharks!"
+    ],
+    "threats": [
+      "Shark finning for shark fin soup",
+      "Bycatch in commercial fishing",
+      "Habitat degradation"
+    ],
+    "whatYouCanDo": [
+      "Never eat shark fin soup",
+      "Support shark-friendly fishing practices",
+      "Learn about why sharks are important for healthy oceans"
+    ]
+  },
+  {
+    "id": "whale-shark",
+    "name": "Whale Shark",
+    "scientificName": "Rhincodon typus",
+    "status": "EN",
+    "population": "Unknown, estimated thousands",
+    "region": "oceans",
+    "habitat": "Warm tropical and temperate oceans worldwide",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Similan_Dive_Center_-_great_whale_shark.jpg/330px-Similan_Dive_Center_-_great_whale_shark.jpg",
+    "description": "The Whale Shark is the biggest fish in the entire ocean, growing up to 40 feet long or more! Despite their enormous size, they are gentle giants that eat tiny plankton and small fish by filtering water through their huge mouths.",
+    "funFacts": [
+      "A whale shark's mouth can be up to 5 feet wide, but its throat is only as big as a quarter!",
+      "Each whale shark has a unique pattern of spots, like a fingerprint.",
+      "They can live to be over 100 years old!"
+    ],
+    "threats": [
+      "Being caught in fishing nets",
+      "Boat strikes",
+      "Demand for their fins and meat"
+    ],
+    "whatYouCanDo": [
+      "Support marine protected areas",
+      "Choose sustainably caught seafood",
+      "Learn about these gentle giants and share their story"
+    ]
+  },
+  {
+    "id": "sea-otter",
+    "name": "Sea Otter",
+    "scientificName": "Enhydra lutris",
+    "status": "EN",
+    "population": "100,000-125,000",
+    "region": "oceans",
+    "habitat": "Coastal waters of the northern Pacific Ocean",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg/330px-Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg",
+    "description": "Sea Otters are adorable marine mammals that float on their backs in the ocean. They use rocks as tools to crack open shellfish on their bellies! They have the thickest fur of any animal, with up to 1 million hairs per square inch.",
+    "funFacts": [
+      "Sea otters hold hands while sleeping so they don't drift apart!",
+      "They have a special pouch of skin under their arm where they store their favorite rock tool.",
+      "Their fur is so thick that their skin never actually gets wet!"
+    ],
+    "threats": [
+      "Oil spills coating their fur",
+      "Pollution",
+      "Conflict with fisheries"
+    ],
+    "whatYouCanDo": [
+      "Help keep oceans and beaches clean",
+      "Support oil spill prevention and cleanup efforts",
+      "Reduce, reuse, recycle to protect ocean habitats"
+    ]
+  },
+  {
+    "id": "green-sea-turtle",
+    "name": "Green Sea Turtle",
+    "scientificName": "Chelonia mydas",
+    "status": "EN",
+    "population": "85,000-90,000 nesting females",
+    "region": "oceans",
+    "habitat": "Tropical and subtropical oceans worldwide",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg/330px-Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+    "description": "Green Sea Turtles are named for the green color of their body fat, not their shells! They are the only sea turtles that eat mostly plants as adults, grazing on seagrass and algae like underwater lawn mowers. They can migrate over 1,000 miles to nest.",
+    "funFacts": [
+      "Green sea turtles can hold their breath for up to 5 hours while resting!",
+      "They always return to the exact same beach where they were born to lay their eggs.",
+      "They have been swimming in Earth's oceans for over 100 million years."
+    ],
+    "threats": [
+      "Plastic pollution",
+      "Poaching of eggs",
+      "Loss of nesting beaches from coastal development"
+    ],
+    "whatYouCanDo": [
+      "Reduce plastic use to protect sea turtles",
+      "Support sea turtle nesting beach protection",
+      "Participate in beach cleanups"
+    ]
+  },
+  {
+    "id": "gharial",
+    "name": "Gharial",
+    "scientificName": "Gavialis gangeticus",
+    "status": "CR",
+    "population": "650-700",
+    "region": "south-asia",
+    "habitat": "Rivers of northern India and Nepal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Gharial_%28Gavialis_gangeticus%29_male.jpg/330px-Gharial_%28Gavialis_gangeticus%29_male.jpg",
+    "description": "The Gharial is one of the most unique-looking crocodilians in the world, with an extremely long, thin snout full of sharp teeth. Males have a big bulb on the tip of their nose called a 'ghara.' They are expert fish catchers!",
+    "funFacts": [
+      "Gharials have over 100 sharp teeth perfectly designed for catching slippery fish!",
+      "Male gharials have a bulb on their nose that makes a buzzing sound to attract females.",
+      "They are one of the longest crocodilians, growing up to 20 feet long."
+    ],
+    "threats": [
+      "Loss of river habitat from dams and water extraction",
+      "Fishing nets",
+      "Sand mining destroying nesting sites"
+    ],
+    "whatYouCanDo": [
+      "Support river conservation in India",
+      "Learn about crocodilians and their role in ecosystems",
+      "Help keep waterways clean"
+    ]
+  },
+  {
+    "id": "przewalskis-horse",
+    "name": "Przewalski's Horse",
+    "scientificName": "Equus ferus przewalskii",
+    "status": "EN",
+    "population": "1,900-2,000",
+    "region": "middle-east-central-asia",
+    "habitat": "Steppes and grasslands of Mongolia and China",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Przewalskis_horse_02.jpg/330px-Przewalskis_horse_02.jpg",
+    "description": "Przewalski's Horse is the last truly wild horse species in the world. All other 'wild' horses are actually descendants of domesticated horses that escaped. They went extinct in the wild in the 1960s but have been successfully reintroduced to Mongolia!",
+    "funFacts": [
+      "They are the only truly wild horses left on Earth!",
+      "They have 66 chromosomes instead of the 64 that domestic horses have.",
+      "Cave paintings of these horses were made by humans over 20,000 years ago!"
+    ],
+    "threats": [
+      "Loss of grassland habitat",
+      "Competition with livestock for food",
+      "Harsh winters"
+    ],
+    "whatYouCanDo": [
+      "Learn about Mongolia's amazing grasslands",
+      "Support wild horse reintroduction programs",
+      "Tell others about the last truly wild horse"
+    ]
+  }
+]
