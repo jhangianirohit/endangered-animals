@@ -95,14 +95,24 @@
 	</article>
 
 	<footer>
-		<p>Made with love by Vir</p>
+		<div class="wave-divider">
+			<svg viewBox="0 0 1200 60" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M0,60 C200,20 400,50 600,30 C800,10 1000,45 1200,25 L1200,60 L0,60 Z" fill="currentColor" />
+			</svg>
+		</div>
+		<div class="footer-content">
+			<p>Made with love by Vir</p>
+		</div>
 	</footer>
 </div>
 
 <style>
 	.page {
 		min-height: 100vh;
-		background: var(--sand-bg);
+		background:
+			radial-gradient(ellipse 600px 400px at 15% 20%, rgba(45, 90, 39, 0.03) 0%, transparent 70%),
+			radial-gradient(ellipse 500px 500px at 85% 60%, rgba(26, 122, 138, 0.03) 0%, transparent 70%),
+			var(--sand-bg);
 	}
 
 	.breadcrumb {
@@ -112,9 +122,16 @@
 	}
 
 	.breadcrumb a {
+		display: inline-block;
 		font-size: 0.9rem;
 		font-weight: 600;
 		color: var(--ocean-mid);
+		transition: transform var(--duration-fast) var(--ease-smooth);
+	}
+
+	.breadcrumb a:hover {
+		transform: translateX(-3px);
+		text-decoration: none;
 	}
 
 	.animal-page {
@@ -123,8 +140,9 @@
 		background: var(--warm-white);
 		border-radius: var(--radius-lg);
 		overflow: hidden;
-		box-shadow: var(--shadow-md);
+		box-shadow: var(--shadow-lg);
 		margin-bottom: 40px;
+		animation: pageIn 0.6s var(--ease-out-expo) both;
 	}
 
 	.hero-image {
@@ -132,6 +150,18 @@
 		height: 400px;
 		overflow: hidden;
 		background: var(--earth-cream);
+		position: relative;
+	}
+
+	.hero-image::after {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		height: 80px;
+		background: linear-gradient(to top, var(--warm-white) 0%, transparent 100%);
+		pointer-events: none;
 	}
 
 	.hero-image img {
@@ -187,8 +217,18 @@
 		flex: 1;
 		min-width: 140px;
 		padding: 14px 18px;
-		background: var(--earth-cream);
+		background: var(--warm-white);
 		border-radius: var(--radius-sm);
+		box-shadow: var(--shadow-sm);
+		border-left: 3px solid var(--ocean-mid);
+		transition:
+			transform var(--duration-normal) var(--ease-spring),
+			box-shadow var(--duration-normal) var(--ease-smooth);
+	}
+
+	.stat-card:hover {
+		transform: translateY(-2px);
+		box-shadow: var(--shadow-md);
 	}
 
 	.stat-label {
@@ -216,6 +256,10 @@
 
 	.section {
 		margin-bottom: 24px;
+		padding: 16px 20px;
+		background: rgba(245, 240, 232, 0.35);
+		border-radius: var(--radius-sm);
+		border: 1px solid rgba(0, 0, 0, 0.04);
 	}
 
 	h2 {
@@ -223,6 +267,8 @@
 		font-weight: 700;
 		color: var(--forest-dark);
 		margin-bottom: 12px;
+		padding-left: 12px;
+		border-left: 3px solid var(--ocean-mid);
 	}
 
 	ul {
@@ -266,21 +312,64 @@
 	}
 
 	.back-link a {
+		display: inline-block;
+		padding: 10px 20px;
+		background: linear-gradient(135deg, var(--ocean-mid) 0%, var(--ocean-deep) 100%);
+		color: white;
+		border-radius: var(--radius-sm);
 		font-weight: 700;
 		font-size: 0.95rem;
-		color: var(--ocean-mid);
+		transition:
+			transform var(--duration-normal) var(--ease-spring),
+			box-shadow var(--duration-normal) var(--ease-smooth);
+	}
+
+	.back-link a:hover {
+		transform: translateY(-2px);
+		box-shadow: var(--shadow-md), var(--shadow-glow-ocean);
+		text-decoration: none;
 	}
 
 	footer {
+		position: relative;
+		margin-top: auto;
+	}
+
+	.wave-divider {
+		position: relative;
+		height: 40px;
+		overflow: hidden;
+		color: var(--forest-dark);
+	}
+
+	.wave-divider svg {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.footer-content {
 		text-align: center;
-		padding: 24px;
-		color: var(--text-light);
+		padding: 28px 20px 36px;
+		background: var(--gradient-footer);
+	}
+
+	.footer-content p {
+		font-weight: 700;
+		color: rgba(255, 255, 255, 0.95);
 		font-size: 0.9rem;
 	}
 
-	footer p {
-		font-weight: 700;
-		color: var(--forest-dark);
+	@keyframes pageIn {
+		from {
+			opacity: 0;
+			transform: translateY(20px);
+		}
+		to {
+			opacity: 1;
+			transform: translateY(0);
+		}
 	}
 
 	@media (max-width: 640px) {

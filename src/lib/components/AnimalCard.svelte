@@ -43,16 +43,21 @@
 		border-radius: var(--radius-md);
 		overflow: hidden;
 		box-shadow: var(--shadow-sm);
-		transition: transform 0.2s ease, box-shadow 0.2s ease;
+		border: 1px solid rgba(0, 0, 0, 0.05);
+		transition:
+			transform var(--duration-normal) var(--ease-spring),
+			box-shadow var(--duration-normal) var(--ease-smooth),
+			border-color var(--duration-normal) var(--ease-smooth);
 		cursor: pointer;
 		text-align: left;
 		width: 100%;
-		animation: cardIn 0.4s ease both;
+		animation: cardIn 0.5s var(--ease-out-expo) both;
 	}
 
 	.card:hover {
-		transform: translateY(-4px);
-		box-shadow: var(--shadow-lg);
+		transform: translateY(-8px);
+		box-shadow: var(--shadow-lift);
+		border-color: rgba(26, 122, 138, 0.2);
 	}
 
 	.card-image {
@@ -63,12 +68,26 @@
 		background: var(--earth-cream);
 	}
 
+	.card-image::after {
+		content: '';
+		position: absolute;
+		inset: 0;
+		background: var(--gradient-card-overlay);
+		opacity: 0;
+		transition: opacity var(--duration-normal) var(--ease-smooth);
+		pointer-events: none;
+	}
+
+	.card:hover .card-image::after {
+		opacity: 1;
+	}
+
 	.card-image img {
 		width: 100%;
 		height: 100%;
 		object-fit: contain;
 		background: var(--earth-cream);
-		transition: transform 0.3s ease;
+		transition: transform var(--duration-slow) var(--ease-out-expo);
 	}
 
 	.card:hover .card-image img {
@@ -100,6 +119,7 @@
 		position: absolute;
 		top: 8px;
 		right: 8px;
+		z-index: 1;
 	}
 
 	.card-body {
@@ -133,11 +153,11 @@
 	@keyframes cardIn {
 		from {
 			opacity: 0;
-			transform: translateY(16px);
+			transform: translateY(20px) scale(0.97);
 		}
 		to {
 			opacity: 1;
-			transform: translateY(0);
+			transform: translateY(0) scale(1);
 		}
 	}
 </style>

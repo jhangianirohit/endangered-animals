@@ -151,28 +151,32 @@
 		width: 100%;
 		height: auto;
 		border-radius: var(--radius-lg);
-		box-shadow: var(--shadow-lg);
+		box-shadow: var(--shadow-lg), var(--shadow-glow-ocean);
 		cursor: pointer;
 	}
 
 	.region-group {
-		transition: opacity 0.2s, filter 0.2s;
+		transition:
+			opacity var(--duration-fast) var(--ease-smooth),
+			filter var(--duration-fast) var(--ease-smooth);
 		cursor: pointer;
 		outline: none;
 	}
 
 	.region-group path {
-		transition: filter 0.2s, stroke-width 0.2s;
+		transition:
+			filter var(--duration-fast) var(--ease-smooth),
+			stroke-width var(--duration-fast) var(--ease-smooth);
 	}
 
 	.region-group.hovered path {
-		filter: brightness(1.2) saturate(1.2);
+		filter: brightness(1.25) saturate(1.3) drop-shadow(0 0 6px rgba(255, 255, 255, 0.3));
 		stroke-width: 1;
 		stroke: rgba(255, 255, 255, 0.8);
 	}
 
 	.region-group.dimmed {
-		opacity: 0.7;
+		opacity: 0.65;
 	}
 
 	.region-group:focus-visible path {
@@ -186,15 +190,22 @@
 		left: 50%;
 		transform: translateX(-50%);
 		padding: 8px 20px;
-		background: rgba(11, 79, 108, 0.85);
-		backdrop-filter: blur(4px);
+		background: var(--glass-bg-dark);
+		backdrop-filter: var(--glass-blur);
+		-webkit-backdrop-filter: var(--glass-blur);
+		border: 1px solid var(--glass-border);
 		border-radius: 24px;
 		cursor: pointer;
-		transition: background 0.2s;
+		transition:
+			transform var(--duration-normal) var(--ease-spring),
+			box-shadow var(--duration-normal) var(--ease-smooth),
+			background var(--duration-fast) var(--ease-smooth);
 	}
 
 	.ocean-btn:hover {
-		background: rgba(11, 79, 108, 0.95);
+		background: rgba(11, 79, 108, 0.9);
+		transform: translateX(-50%) translateY(-3px);
+		box-shadow: var(--shadow-md);
 	}
 
 	.ocean-label {
@@ -206,14 +217,28 @@
 	.tooltip {
 		position: fixed;
 		pointer-events: none;
-		background: rgba(44, 44, 44, 0.9);
+		background: var(--glass-bg-dark);
+		backdrop-filter: var(--glass-blur);
+		-webkit-backdrop-filter: var(--glass-blur);
 		color: white;
 		padding: 6px 14px;
 		border-radius: 8px;
+		border: 1px solid var(--glass-border);
 		font-size: 0.85rem;
 		font-weight: 600;
 		z-index: 50;
 		white-space: nowrap;
-		backdrop-filter: blur(4px);
+		animation: tooltipIn 0.2s var(--ease-spring) both;
+	}
+
+	@keyframes tooltipIn {
+		from {
+			opacity: 0;
+			transform: translateY(4px) scale(0.95);
+		}
+		to {
+			opacity: 1;
+			transform: translateY(0) scale(1);
+		}
 	}
 </style>

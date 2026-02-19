@@ -100,13 +100,15 @@
 	.overlay {
 		position: fixed;
 		inset: 0;
-		background: rgba(0, 0, 0, 0.6);
+		background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.7) 100%);
+		backdrop-filter: blur(4px);
+		-webkit-backdrop-filter: blur(4px);
 		z-index: 1000;
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		padding: 20px;
-		animation: fadeIn 0.2s ease;
+		animation: fadeIn 0.2s var(--ease-smooth);
 		overflow-y: auto;
 	}
 
@@ -118,7 +120,8 @@
 		max-height: 90vh;
 		overflow-y: auto;
 		position: relative;
-		animation: slideUp 0.3s ease;
+		box-shadow: var(--shadow-lift);
+		animation: modalSlideUp 0.4s var(--ease-spring);
 	}
 
 	.close-btn {
@@ -129,17 +132,22 @@
 		height: 36px;
 		border-radius: 50%;
 		background: rgba(0, 0, 0, 0.5);
+		backdrop-filter: blur(8px);
+		-webkit-backdrop-filter: blur(8px);
 		color: white;
 		font-size: 1.1rem;
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		z-index: 10;
-		transition: background 0.2s;
+		transition:
+			background var(--duration-fast) var(--ease-smooth),
+			transform var(--duration-normal) var(--ease-spring);
 	}
 
 	.close-btn:hover {
 		background: rgba(0, 0, 0, 0.7);
+		transform: scale(1.1);
 	}
 
 	.modal-image {
@@ -148,6 +156,18 @@
 		overflow: hidden;
 		border-radius: var(--radius-lg) var(--radius-lg) 0 0;
 		background: var(--earth-cream);
+		position: relative;
+	}
+
+	.modal-image::after {
+		content: '';
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		right: 0;
+		height: 60px;
+		background: linear-gradient(to top, var(--warm-white) 0%, transparent 100%);
+		pointer-events: none;
 	}
 
 	.modal-image img {
@@ -197,8 +217,10 @@
 		gap: 24px;
 		margin-bottom: 16px;
 		padding: 12px 16px;
-		background: var(--earth-cream);
+		background: rgba(245, 240, 232, 0.7);
 		border-radius: var(--radius-sm);
+		border-left: 3px solid var(--ocean-mid);
+		box-shadow: var(--shadow-inner-soft);
 	}
 
 	.stat-label {
@@ -225,6 +247,10 @@
 
 	.section {
 		margin-bottom: 18px;
+		padding: 14px 16px;
+		background: rgba(245, 240, 232, 0.35);
+		border-radius: var(--radius-sm);
+		border: 1px solid rgba(0, 0, 0, 0.04);
 	}
 
 	h3 {
@@ -232,6 +258,8 @@
 		font-weight: 700;
 		color: var(--forest-dark);
 		margin-bottom: 8px;
+		padding-left: 10px;
+		border-left: 3px solid var(--ocean-mid);
 	}
 
 	ul {
@@ -272,16 +300,19 @@
 		display: inline-block;
 		margin-top: 8px;
 		padding: 10px 20px;
-		background: var(--ocean-mid);
+		background: linear-gradient(135deg, var(--ocean-mid) 0%, var(--ocean-deep) 100%);
 		color: white;
 		border-radius: var(--radius-sm);
 		font-weight: 700;
 		font-size: 0.9rem;
-		transition: background 0.2s;
+		transition:
+			transform var(--duration-normal) var(--ease-spring),
+			box-shadow var(--duration-normal) var(--ease-smooth);
 	}
 
 	.share-link:hover {
-		background: var(--ocean-deep);
+		transform: translateY(-2px);
+		box-shadow: var(--shadow-md), var(--shadow-glow-ocean);
 		text-decoration: none;
 	}
 
@@ -290,14 +321,14 @@
 		to { opacity: 1; }
 	}
 
-	@keyframes slideUp {
+	@keyframes modalSlideUp {
 		from {
 			opacity: 0;
-			transform: translateY(24px);
+			transform: translateY(32px) scale(0.97);
 		}
 		to {
 			opacity: 1;
-			transform: translateY(0);
+			transform: translateY(0) scale(1);
 		}
 	}
 
